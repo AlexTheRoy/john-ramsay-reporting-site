@@ -1,0 +1,598 @@
+zip,city,county,region,population,households,housing_units,owner_occupied,homeownership_rate,median_hh_income,median_home_value,median_age,hh_65plus_share,no_vehicle_share,two_plus_vehicle_share,nri_earthquake_score,share_residents_high_earthquake_tracts,nri_wildfire_score,share_residents_high_wildfire_tracts,nri_inland_flooding_score,share_residents_high_flood_tracts,nri_landslide_score,nri_winter_weather_score,wildfire_earthquake_score,wildfire_earthquake_tier,tier_driver,home_treatment,prime_target,your_home_leads,your_auto_leads
+98001,,King County,Seattle & King County,37460,11982,12447,8853,73.9,106791,587400,39.2,30.2,3.8,71.7,94.4,88.1,52.6,0.0,46.2,19.5,64.4,37.4,72.0,Moderate,,No change,Yes,6,4
+98002,,King County,Seattle & King County,37509,14269,15044,6979,48.9,78684,421300,35.9,28.6,11.0,53.6,96.0,95.2,32.0,0.0,81.6,60.3,31.1,38.7,65.7,High,Earthquake,Construction and deductible review,,10,15
+98003,,King County,Seattle & King County,51619,18786,19754,8818,46.9,75319,476600,35.7,29.8,8.7,49.2,94.0,92.3,45.4,0.0,29.0,0.0,63.2,38.8,67.4,Moderate,,No change,,5,11
+98004,,King County,Seattle & King County,39897,19515,21221,7113,36.4,182545,2000001,38.0,22.3,15.6,36.0,95.9,100.0,39.1,0.0,39.7,1.1,59.4,37.4,66.8,High,Earthquake,Construction and deductible review,,1,3
+98005,,King County,Seattle & King County,21846,9097,9506,4608,50.7,160849,1519500,37.4,23.8,7.0,56.4,97.3,100.0,53.9,0.0,56.7,17.3,78.5,43.0,76.2,Extreme,Earthquake,Check appetite,,4,0
+98006,,King County,Seattle & King County,40009,14084,14623,11232,79.8,198150,1388500,42.7,29.9,3.8,73.6,92.2,86.4,54.3,0.0,55.5,8.7,89.0,38.5,74.9,Moderate,,No change,Yes,4,4
+98007,,King County,Seattle & King County,27692,11673,12555,4158,35.6,131109,1018100,33.0,16.8,10.7,36.5,97.6,99.9,39.9,0.0,46.0,0.9,61.6,44.9,68.6,Extreme,Earthquake,Check appetite,,1,3
+98008,,King County,Seattle & King County,27242,9431,10117,6792,72.0,184583,1206200,43.0,30.7,2.5,66.5,93.5,89.3,46.9,0.0,56.1,24.9,72.5,42.7,71.4,Moderate,,No change,Yes,2,2
+98010,,King County,Seattle & King County,6857,2649,2775,2271,85.7,142048,775400,38.5,20.0,3.1,74.2,88.5,55.2,61.2,0.0,51.3,0.0,83.6,39.7,74.7,Low,,No change,,1,0
+98011,,King County,Seattle & King County,28963,11964,12793,6933,57.9,131667,933000,38.3,27.0,5.8,57.3,95.4,100.0,62.7,0.0,67.2,18.1,87.1,44.8,80.3,High,Earthquake,Construction and deductible review,,7,3
+98012,,Snohomish County,Puget Sound North,77041,27903,28674,18531,66.4,146144,876600,36.1,19.4,3.8,64.5,87.8,37.9,55.2,0.0,34.5,0.0,85.1,55.9,70.8,Low,,No change,Yes,12,5
+98014,,King County,Seattle & King County,8264,2869,2927,2630,91.7,164306,940600,42.6,29.6,2.5,77.6,91.1,100.0,69.5,0.0,83.3,70.0,96.8,46.3,83.3,High,Combined score,Construction and deductible review,,2,1
+98019,,King County,Seattle & King County,12242,4155,4283,3642,87.7,161212,826600,37.5,24.2,4.4,76.4,91.6,100.0,67.5,0.0,76.9,63.2,95.4,46.4,82.1,High,Combined score,Construction and deductible review,Yes,2,1
+98020,,Snohomish County,Puget Sound North,19551,9017,9526,6756,74.9,130319,1031500,51.2,43.9,3.9,62.1,95.1,94.1,50.5,0.0,30.7,0.0,92.0,58.9,72.7,High,Earthquake,Construction and deductible review,Yes,3,1
+98021,,Snohomish County,Puget Sound North,35631,12378,12827,10037,81.1,183786,967700,38.1,25.4,2.0,73.2,91.5,87.9,61.3,0.0,41.9,0.0,93.8,56.0,76.2,Moderate,,No change,Yes,3,1
+98022,,King County,Seattle & King County,22418,8730,9726,7092,81.2,120406,608500,43.5,38.9,1.6,76.5,92.6,68.8,59.3,6.1,70.5,41.4,71.6,48.3,76.6,Moderate,,No change,Yes,2,3
+98023,,King County,Seattle & King County,50448,17752,18564,11649,65.6,104893,589900,38.6,28.5,3.7,68.2,91.8,98.3,53.8,0.0,33.8,0.0,72.2,39.0,70.7,Moderate,,No change,Yes,19,20
+98024,,King County,Seattle & King County,3908,1674,1835,1496,89.4,160641,1107100,50.2,37.8,1.2,84.6,89.5,72.0,71.0,0.0,73.9,72.0,90.8,38.3,81.6,Moderate,,No change,,1,0
+98025,,King County,Seattle & King County,52,52,52,52,100.0,,,,0.0,0.0,0.0,90.3,100.0,83.8,0.0,88.2,100.0,97.7,40.2,88.6,High,Combined score,Construction and deductible review,,0,0
+98026,,Snohomish County,Puget Sound North,38976,15500,15946,11476,74.0,133638,821700,42.9,32.6,1.9,68.1,91.9,75.9,51.2,0.0,23.8,0.0,90.5,55.2,70.7,Moderate,,No change,Yes,6,9
+98027,,King County,Seattle & King County,28955,11804,12322,7976,67.6,153301,996600,40.6,27.3,5.8,65.4,93.6,88.7,68.1,0.0,84.7,77.3,88.9,44.5,83.3,High,Combined score,Construction and deductible review,Yes,1,3
+98028,,King County,Seattle & King County,23741,9396,9761,6513,69.3,139764,920800,39.1,29.8,8.6,62.9,93.5,100.0,58.3,0.0,54.1,0.0,86.6,38.6,76.5,Moderate,,No change,Yes,2,2
+98029,,King County,Seattle & King County,30586,12115,12722,7543,62.3,170759,1063200,37.2,20.1,3.8,55.1,90.5,55.8,61.0,0.0,60.4,11.2,79.2,40.7,76.0,Moderate,,No change,Yes,0,3
+98030,,King County,Seattle & King County,38523,13113,13736,6843,52.2,91761,582400,35.1,23.5,6.8,63.7,92.3,78.6,45.6,0.0,41.4,16.6,48.5,35.3,66.5,Moderate,,No change,,2,7
+98031,,King County,Seattle & King County,40094,14011,14599,9415,67.2,105965,611600,38.1,26.1,4.9,67.2,92.3,93.3,48.7,0.0,42.5,0.3,59.9,37.7,68.8,Moderate,,No change,Yes,12,7
+98032,,King County,Seattle & King County,40862,14675,15774,6262,42.7,82636,520800,32.9,21.7,10.7,50.1,96.6,100.0,51.9,0.0,75.4,62.1,69.2,40.8,76.1,Extreme,Earthquake,Check appetite,,12,11
+98033,,King County,Seattle & King County,40982,17400,18448,11002,63.2,182500,1491700,40.0,25.7,5.1,57.2,94.6,93.9,42.2,0.0,43.1,0.0,68.1,39.3,68.5,High,Earthquake,Construction and deductible review,Yes,0,0
+98034,,King County,Seattle & King County,52531,21726,23095,12859,59.2,135219,946300,37.1,23.9,4.4,62.0,92.1,83.3,49.3,0.0,39.3,0.8,68.5,38.4,69.5,Moderate,,No change,,5,6
+98036,,Snohomish County,Puget Sound North,42370,16575,17372,9902,59.7,88958,759900,39.6,30.9,9.5,61.5,93.5,88.6,52.0,0.0,31.8,0.0,89.2,60.3,72.4,Moderate,,No change,,1,0
+98037,,Snohomish County,Puget Sound North,29723,11259,11581,6931,61.6,107281,767300,37.7,28.3,5.5,61.1,93.8,100.0,51.6,0.0,28.1,0.0,87.4,59.9,71.8,Moderate,,No change,Yes,5,10
+98038,,King County,Seattle & King County,37324,12618,12936,10802,85.6,152261,776900,38.5,24.8,1.9,79.2,88.2,60.7,56.5,0.0,59.9,38.2,76.5,41.5,73.1,Low,,No change,Yes,7,2
+98039,,King County,Seattle & King County,2928,1010,1090,803,79.5,250001,2000001,47.4,37.2,5.6,81.0,93.1,100.0,65.2,0.0,71.2,0.0,86.9,39.8,80.5,Moderate,,No change,,0,0
+98040,,King County,Seattle & King County,25307,10068,10609,6746,67.0,219069,2000001,46.4,36.1,5.7,65.3,93.8,100.0,56.9,0.0,54.1,0.0,90.1,34.1,76.5,Moderate,,No change,Yes,0,0
+98042,,King County,Seattle & King County,50216,17144,17629,14107,82.3,127552,658500,39.0,27.2,3.8,77.0,89.8,59.7,51.2,0.0,52.2,2.1,61.8,39.5,69.7,Low,,No change,Yes,2,4
+98043,,Snohomish County,Puget Sound North,23101,9843,10198,5594,56.8,107687,667100,38.3,27.2,4.4,61.9,93.3,84.3,40.8,0.0,20.5,0.0,87.3,54.3,67.0,Moderate,,No change,,4,10
+98045,,King County,Seattle & King County,15289,5514,5748,4615,83.7,175765,938500,40.4,23.7,1.6,81.1,91.5,60.9,73.3,0.0,88.1,73.3,78.3,45.0,83.5,High,Combined score,Construction and deductible review,Yes,2,1
+98047,,King County,Seattle & King County,6817,2230,2376,1277,57.3,115188,482800,38.0,28.3,3.9,76.7,97.4,100.0,49.8,0.0,86.3,85.5,32.2,42.8,73.1,Extreme,Earthquake,Check appetite,,2,3
+98050,,King County,Seattle & King County,108,79,79,79,100.0,,2000001,66.5,81.0,0.0,38.0,92.3,100.0,84.8,0.0,87.9,100.0,97.5,44.6,89.8,High,Combined score,Construction and deductible review,,0,0
+98051,,King County,Seattle & King County,3442,1196,1222,1111,92.9,136439,790500,45.1,25.8,10.8,78.8,87.2,60.8,70.6,0.0,68.4,28.2,93.4,41.4,80.1,Moderate,,No change,,1,1
+98052,,King County,Seattle & King County,80717,34177,36226,15312,44.8,163460,1180600,35.2,17.5,7.4,46.5,95.5,98.1,53.9,0.0,59.0,17.7,75.6,45.3,75.3,High,Earthquake,Construction and deductible review,,1,4
+98053,,King County,Seattle & King County,22765,8327,8563,7065,84.8,192292,1213600,43.9,36.7,4.2,73.1,90.7,66.2,60.5,0.0,50.8,20.2,65.1,41.3,73.6,Low,,No change,Yes,5,0
+98055,,King County,Seattle & King County,24660,9648,9942,5289,54.8,97224,602800,33.5,20.7,5.8,57.1,90.9,86.4,53.0,0.0,33.4,0.0,71.2,33.2,69.9,Low,,No change,,0,0
+98056,,King County,Seattle & King County,35849,14493,15342,7869,54.3,113688,797300,39.0,29.2,9.4,60.4,93.7,89.7,39.4,0.0,47.2,19.5,74.0,38.6,68.1,Moderate,,No change,,14,10
+98057,,King County,Seattle & King County,12705,6228,6633,1574,25.3,68552,648800,38.5,28.1,17.7,34.9,96.8,99.4,40.1,0.0,77.4,55.1,73.8,42.1,72.7,Extreme,Earthquake,Check appetite,,5,5
+98058,,King County,Seattle & King County,42980,15516,16209,11245,72.5,115201,676000,38.2,31.1,5.0,68.4,91.2,73.0,48.1,0.0,50.9,9.6,66.9,34.7,69.7,Moderate,,No change,Yes,12,7
+98059,,King County,Seattle & King County,42406,14520,14926,11119,76.6,138654,872000,38.1,24.6,4.1,73.7,92.5,100.0,55.2,0.0,59.5,12.3,74.8,40.9,74.4,Moderate,,No change,Yes,5,3
+98065,,King County,Seattle & King County,15944,5445,5759,4641,85.2,198216,956600,39.1,18.7,1.7,78.8,90.1,81.9,67.5,0.0,79.9,84.3,89.2,38.1,81.1,Moderate,,No change,Yes,1,1
+98068,,Kittitas County,Central Washington,482,229,813,191,83.4,100096,904000,57.5,45.9,0.0,47.2,83.1,0.0,92.2,23.5,93.9,100.0,99.7,53.4,89.0,High,Wildfire,Construction and deductible review,,0,0
+98070,,King County,Seattle & King County,9934,4180,5464,3456,82.7,120571,790700,52.4,44.9,2.9,68.7,97.0,100.0,73.7,0.0,79.2,53.2,97.9,37.7,87.2,Extreme,Earthquake,Check appetite,,2,0
+98072,,King County,Seattle & King County,24446,9487,9784,6846,72.2,175805,1122200,42.6,29.5,4.3,68.1,93.8,93.6,63.1,0.0,53.8,5.7,88.0,45.3,78.5,Moderate,,No change,Yes,7,0
+98074,,King County,Seattle & King County,30761,10272,10425,8601,83.7,244362,1366900,39.1,17.2,1.6,76.0,90.3,93.4,56.3,0.0,60.3,6.4,84.1,40.1,74.8,Low,,No change,Yes,2,1
+98075,,King County,Seattle & King County,25498,8158,8397,7124,87.3,250001,1599100,41.6,19.7,2.2,84.3,89.4,47.2,57.6,0.0,66.0,23.1,78.5,38.2,74.8,Low,,No change,Yes,1,0
+98077,,King County,Seattle & King County,14109,4743,4793,4232,89.2,184306,1206400,43.9,32.6,0.3,91.6,90.6,98.2,64.2,0.0,51.7,0.0,87.1,43.3,77.1,Moderate,,No change,Yes,2,0
+98087,,Snohomish County,Puget Sound North,41796,16575,17525,8617,52.0,106693,676400,35.1,17.4,6.5,56.4,88.8,36.0,55.4,0.0,28.1,0.0,84.8,62.1,70.6,Low,,No change,,1,3
+98092,,King County,Seattle & King County,50224,16618,17247,12343,74.3,122300,635900,36.5,22.4,3.1,77.2,91.0,73.5,53.2,0.0,60.5,31.8,83.1,39.9,73.9,Moderate,,No change,Yes,10,5
+98101,,King County,Seattle & King County,17153,11722,13585,1588,13.5,128882,784200,33.8,13.6,46.4,7.7,98.2,100.0,0.0,0.0,40.3,29.6,46.4,41.1,52.9,Extreme,Earthquake,Check appetite,,1,0
+98102,,King County,Seattle & King County,27333,17489,18488,4728,27.0,114925,963200,33.8,9.2,28.4,21.3,94.3,100.0,11.6,0.0,24.0,0.0,57.4,31.3,54.6,Moderate,,No change,,0,1
+98103,,King County,Seattle & King County,52671,26873,28631,11942,44.4,131154,1044100,34.5,17.0,11.2,39.6,92.4,87.1,5.4,0.0,29.2,0.0,43.3,30.4,50.7,Moderate,,No change,,1,2
+98104,,King County,Seattle & King County,16542,9578,11371,787,8.2,61460,616000,37.5,21.7,56.1,5.8,99.0,100.0,0.9,0.0,26.7,19.2,63.9,41.5,53.9,Extreme,Earthquake,Check appetite,,0,1
+98105,,King County,Seattle & King County,49767,18756,21251,5884,31.4,74349,1312100,24.6,14.3,27.7,32.6,93.8,90.5,18.9,0.0,28.3,0.0,46.0,33.6,56.3,Moderate,,No change,,0,0
+98106,,King County,Seattle & King County,28690,11791,12331,6926,58.7,124212,706600,36.3,22.8,10.2,53.0,95.1,100.0,45.8,0.0,44.8,26.0,78.7,36.4,71.2,High,Earthquake,Construction and deductible review,,12,7
+98107,,King County,Seattle & King County,28776,15835,16938,6065,38.3,142662,953400,34.2,13.4,13.2,27.9,93.3,77.1,5.8,0.0,42.7,0.0,30.5,31.1,51.3,Moderate,,No change,,0,0
+98108,,King County,Seattle & King County,25529,9016,9544,5245,58.2,95780,720400,36.9,28.1,10.8,49.8,95.4,100.0,38.9,0.0,50.0,29.7,73.0,36.8,68.8,High,Earthquake,Construction and deductible review,,6,6
+98109,,King County,Seattle & King County,34328,21883,24597,4616,21.1,133663,1034100,31.7,8.3,29.0,16.7,93.7,100.0,4.6,0.0,17.0,0.0,52.1,30.6,50.7,Moderate,,No change,,1,1
+98110,,Kitsap County,South Sound,24631,9887,10900,8045,81.4,172188,1155900,49.0,43.4,3.2,69.0,92.1,85.6,66.5,0.0,35.2,0.0,96.2,36.6,77.9,Moderate,,No change,Yes,3,0
+98112,,King County,Seattle & King County,23921,10918,11513,6576,60.2,171572,1549100,40.4,24.6,11.6,48.2,94.8,100.0,30.9,0.0,42.0,0.0,65.9,32.8,64.3,High,Earthquake,Construction and deductible review,Yes,0,0
+98115,,King County,Seattle & King County,54349,23843,25486,14230,59.7,156142,1094600,37.5,21.8,9.5,49.1,91.9,75.4,26.2,0.0,36.9,9.6,55.1,31.8,59.7,Moderate,,No change,,2,3
+98116,,King County,Seattle & King County,28711,14051,15073,6984,49.7,126151,973400,40.6,22.6,8.3,42.5,95.9,100.0,38.3,0.0,26.2,0.0,76.0,30.1,66.8,High,Earthquake,Construction and deductible review,,0,4
+98117,,King County,Seattle & King County,35711,14983,15725,10880,72.6,182984,1043500,40.2,24.7,6.3,54.6,93.1,89.5,16.9,0.0,42.8,0.0,44.7,34.7,56.6,Moderate,,No change,Yes,0,2
+98118,,King County,Seattle & King County,50500,19176,20459,10949,57.1,113762,810500,38.4,24.9,12.6,47.8,92.5,82.0,29.1,0.0,36.6,0.0,69.7,36.0,62.4,Moderate,,No change,,10,13
+98119,,King County,Seattle & King County,26879,14249,15869,5450,38.2,123551,1047600,34.1,16.5,21.1,28.1,95.1,100.0,20.5,0.0,24.7,0.0,71.5,32.3,59.6,High,Earthquake,Construction and deductible review,,0,5
+98121,,King County,Seattle & King County,21166,14288,16684,3233,22.6,152019,848400,33.2,11.6,45.0,7.1,95.7,100.0,7.8,0.0,5.2,0.0,22.4,33.4,48.6,High,Earthquake,Construction and deductible review,,1,1
+98122,,King County,Seattle & King County,43234,23964,25718,6796,28.4,106886,957100,32.4,11.2,28.2,21.6,95.7,100.0,7.5,0.0,26.0,0.0,43.7,34.9,52.7,High,Earthquake,Construction and deductible review,,1,0
+98125,,King County,Seattle & King County,44520,20688,22057,9394,45.4,99868,874300,37.3,27.3,14.0,42.9,90.5,49.8,36.9,0.0,35.6,1.9,55.9,31.3,62.8,Low,,No change,,6,11
+98126,,King County,Seattle & King County,22975,10248,11029,6209,60.6,116466,783700,37.6,18.4,8.8,44.7,93.9,96.9,34.8,0.0,18.8,0.0,60.9,32.8,62.4,Moderate,,No change,Yes,1,4
+98133,,King County,Seattle & King County,53249,23701,25299,11472,48.4,93662,770300,39.7,31.0,13.5,43.1,94.4,90.3,29.4,0.0,29.6,0.0,50.5,35.1,60.8,Moderate,,No change,,7,9
+98134,,King County,Seattle & King County,645,182,209,66,36.3,68214,345800,34.6,25.3,29.1,10.4,99.0,100.0,48.6,0.0,77.8,62.0,88.6,40.0,78.2,Extreme,Earthquake,Check appetite,,0,0
+98136,,King County,Seattle & King County,17252,7921,8345,5072,64.0,149269,925000,40.7,26.3,5.9,52.8,94.4,93.6,39.8,0.0,22.7,0.0,75.7,29.3,66.2,Moderate,,No change,Yes,4,0
+98144,,King County,Seattle & King County,33787,16019,16873,7293,45.5,96969,901700,38.4,26.1,19.6,36.6,97.1,100.0,30.7,0.0,49.2,0.7,78.6,41.8,67.2,Extreme,Earthquake,Check appetite,,1,8
+98146,,King County,Seattle & King County,28573,10617,11049,6790,64.0,102520,679500,40.3,29.6,8.0,60.6,95.3,84.4,41.8,0.0,24.4,0.0,62.4,39.1,66.2,High,Earthquake,Construction and deductible review,Yes,3,6
+98148,,King County,Seattle & King County,9715,3954,4469,1998,50.5,87342,607900,36.4,20.1,13.8,50.1,96.6,100.0,47.2,0.0,25.1,0.0,63.4,35.6,68.8,Extreme,Earthquake,Check appetite,,1,4
+98155,,King County,Seattle & King County,36511,14344,14955,10065,70.2,131540,816400,40.7,30.2,3.7,60.0,95.2,100.0,47.4,0.0,42.6,0.0,75.5,35.1,71.2,High,Earthquake,Construction and deductible review,Yes,4,9
+98164,,King County,Seattle & King County,292,170,170,141,82.9,250001,,43.3,22.9,11.2,21.8,99.9,100.0,0.0,0.0,82.8,100.0,61.8,52.6,59.4,Extreme,Earthquake,Check appetite,,1,1
+98166,,King County,Seattle & King County,22082,8961,9823,6088,67.9,114969,824400,43.6,36.7,7.8,63.1,96.1,100.0,51.2,0.0,32.9,0.0,76.7,36.7,72.1,High,Earthquake,Construction and deductible review,Yes,0,0
+98168,,King County,Seattle & King County,35528,12260,13111,6595,53.8,88083,548000,38.0,28.7,8.2,60.6,97.1,100.0,48.8,0.0,42.8,24.8,70.1,37.6,72.1,Extreme,Earthquake,Check appetite,,10,14
+98177,,King County,Seattle & King County,21090,8134,8304,7074,87.0,169918,1048900,45.8,34.9,3.3,74.6,93.8,81.7,48.9,0.0,32.0,0.0,80.1,35.6,70.5,Moderate,,No change,Yes,1,0
+98178,,King County,Seattle & King County,26748,9349,9988,6236,66.7,99505,660400,39.7,36.5,8.1,60.7,93.7,82.8,45.7,0.0,48.3,4.3,83.4,34.6,71.3,Moderate,,No change,,13,8
+98188,,King County,Seattle & King County,27311,11430,12456,4748,41.5,76438,456400,37.5,25.3,10.2,44.3,98.6,100.0,51.0,0.0,49.1,24.0,68.5,41.5,74.0,Extreme,Earthquake,Check appetite,,8,12
+98195,,King County,Seattle & King County,2757,5,5,0,0.0,,,19.3,0.0,100.0,0.0,100.0,100.0,53.6,0.0,73.2,0.0,82.1,59.3,79.3,Extreme,Earthquake,Check appetite,,0,0
+98198,,King County,Seattle & King County,40463,14588,15275,7989,54.8,86239,589500,36.1,29.7,7.6,59.8,96.8,98.9,51.1,0.0,40.5,4.5,80.7,41.2,73.6,Extreme,Earthquake,Check appetite,,25,10
+98199,,King County,Seattle & King County,22468,10052,10709,6348,63.2,180789,1198700,39.5,24.9,5.5,50.5,94.6,85.2,38.0,0.0,34.8,0.0,86.6,35.6,68.0,High,Earthquake,Construction and deductible review,Yes,2,4
+98201,,Snohomish County,Puget Sound North,31895,14104,15617,6284,44.6,74554,499800,38.9,28.2,10.5,48.1,95.1,82.7,40.9,0.0,32.7,13.9,79.8,57.7,68.4,High,Earthquake,Construction and deductible review,,2,12
+98203,,Snohomish County,Puget Sound North,35517,13752,14851,9304,67.7,107376,608600,40.6,29.8,5.1,67.0,93.9,98.0,46.9,0.0,26.3,0.0,93.4,59.2,70.6,Moderate,,No change,Yes,1,3
+98204,,Snohomish County,Puget Sound North,45130,17974,18893,6040,33.6,68513,414000,32.6,18.4,8.2,47.0,91.9,72.4,52.2,0.0,26.6,0.0,78.0,65.9,70.1,Moderate,,No change,,6,10
+98207,,Snohomish County,Puget Sound North,843,0,0,0,,,,24.1,,,,96.8,100.0,38.4,0.0,22.7,0.0,86.6,54.7,67.9,Extreme,Earthquake,Check appetite,,0,0
+98208,,Snohomish County,Puget Sound North,60915,21848,22418,15178,69.5,103705,691500,37.4,26.8,4.7,69.3,89.5,48.7,55.1,0.0,25.9,0.0,78.4,58.7,70.0,Low,,No change,Yes,21,9
+98220,,Whatcom County,Puget Sound North,541,205,205,175,85.4,92266,368800,40.1,33.2,15.1,82.9,68.5,0.0,89.4,0.0,96.2,100.0,99.9,91.0,81.7,Moderate,,No change,,0,0
+98221,,Skagit County,Puget Sound North,23562,10617,12433,7770,73.2,96528,713100,51.6,48.7,4.1,68.4,84.3,11.6,56.9,0.0,15.2,0.0,61.8,46.4,65.5,Low,,No change,,4,2
+98222,,San Juan County,Puget Sound North,121,58,315,43,74.1,106333,801500,60.0,56.9,0.0,55.2,85.9,0.0,77.8,0.0,57.7,0.0,87.6,79.3,80.4,Moderate,,No change,,1,0
+98223,,Snohomish County,Puget Sound North,46497,17063,18360,13239,77.6,99681,601400,40.5,34.4,4.4,76.5,89.4,54.2,63.7,0.0,57.8,32.3,93.4,62.8,77.6,Moderate,,No change,,22,11
+98224,,King County,Seattle & King County,190,90,224,80,88.9,78636,687500,60.5,55.6,0.0,76.7,88.2,0.0,90.3,0.0,99.2,100.0,99.9,65.8,91.2,High,Combined score,Construction and deductible review,,0,0
+98225,,Whatcom County,Puget Sound North,50216,22612,24205,9122,40.3,63941,631200,31.8,24.3,12.2,48.5,90.6,57.6,53.4,0.0,42.9,12.1,62.3,60.1,70.0,Low,,No change,,0,3
+98226,,Whatcom County,Puget Sound North,46782,20048,20980,12504,62.4,79375,607600,41.1,34.6,3.9,64.4,90.7,63.3,69.3,0.0,58.3,33.8,77.6,67.1,78.7,Moderate,,No change,,8,10
+98229,,Whatcom County,Puget Sound North,33298,13712,14543,9561,69.7,90945,633500,39.1,34.3,5.3,69.1,84.7,28.3,63.6,0.0,57.6,25.6,86.8,61.5,74.8,Low,,No change,,1,1
+98230,,Whatcom County,Puget Sound North,18744,7976,9615,6346,79.6,86623,499800,45.6,44.8,3.8,65.0,89.6,61.3,63.3,0.0,41.3,0.0,73.0,57.4,73.9,Low,,No change,,5,5
+98232,,Skagit County,Puget Sound North,4054,1576,1799,1419,90.0,104559,782200,50.9,40.2,0.5,89.0,89.3,51.6,69.1,0.0,58.7,0.0,73.4,46.5,77.6,Moderate,,No change,,3,0
+98233,,Skagit County,Puget Sound North,17850,6711,7232,3986,59.4,87614,502100,39.3,35.0,3.4,69.8,92.1,69.9,59.1,0.0,86.2,84.0,49.5,59.9,75.7,Moderate,,No change,,1,5
+98235,,Skagit County,Puget Sound North,531,205,205,152,74.1,63307,518900,37.8,27.8,0.0,51.2,81.3,0.0,58.5,0.0,65.6,0.0,89.3,42.4,72.5,Low,,No change,,1,0
+98236,,Island County,Puget Sound North,7199,2910,3622,2462,84.6,94362,668400,51.5,56.5,3.3,73.7,91.0,100.0,69.6,0.0,36.0,0.0,99.9,48.9,78.9,Moderate,,No change,,1,1
+98237,,Skagit County,Puget Sound North,4956,1855,2420,1485,80.1,61711,377700,39.9,40.0,3.3,77.3,81.3,0.0,77.6,0.0,91.4,80.1,97.5,88.5,82.6,High,Combined score,Construction and deductible review,,4,2
+98238,,Skagit County,Puget Sound North,46,46,46,0,0.0,,,,0.0,0.0,100.0,90.4,100.0,76.6,0.0,79.0,100.0,93.8,55.6,84.8,High,Combined score,Construction and deductible review,,0,0
+98239,,Island County,Puget Sound North,7656,3453,4136,2962,85.8,92125,593700,61.1,58.4,2.3,75.2,92.4,100.0,70.0,0.0,34.0,0.0,99.8,52.9,79.5,Moderate,,No change,,2,4
+98240,,Whatcom County,Puget Sound North,3593,1265,1345,1177,93.0,110116,619700,36.9,31.5,0.0,95.6,90.2,64.0,69.5,0.0,52.1,0.0,76.5,57.3,77.8,Moderate,,No change,,0,0
+98241,,Snohomish County,Puget Sound North,2339,919,1087,678,73.8,73185,395000,44.0,50.6,9.5,64.6,81.7,0.0,78.8,0.0,96.5,100.0,99.9,94.0,84.0,High,Combined score,Construction and deductible review,,1,0
+98243,,San Juan County,Puget Sound North,327,144,351,96,66.7,139167,1094800,46.2,40.3,0.0,86.1,85.0,0.0,77.8,0.0,37.1,0.0,87.7,77.2,78.0,Moderate,,No change,,0,0
+98244,,Whatcom County,Puget Sound North,2994,1270,1966,1176,92.6,67159,447000,50.7,50.2,0.9,67.9,79.9,0.0,85.2,0.0,87.2,83.6,99.1,91.4,84.4,High,Combined score,Construction and deductible review,,4,0
+98245,,San Juan County,Puget Sound North,4265,2096,2847,1681,80.2,95811,772600,54.2,48.1,2.7,66.4,85.0,0.0,78.8,0.0,46.3,0.0,90.2,81.0,79.5,Moderate,,No change,,2,2
+98247,,Whatcom County,Puget Sound North,9115,3092,3285,2250,72.8,88724,564400,36.6,37.5,9.6,76.5,90.0,43.8,73.5,0.0,76.0,25.2,89.1,65.3,82.7,High,Combined score,Construction and deductible review,,3,1
+98248,,Whatcom County,Puget Sound North,28498,10083,10799,7731,76.7,91060,589600,37.7,34.1,4.8,73.2,91.1,73.9,63.9,0.0,44.5,13.6,72.2,61.7,75.0,Moderate,,No change,,7,3
+98249,,Island County,Puget Sound North,4198,2180,3206,1811,83.1,99519,627400,58.8,52.2,3.6,71.7,91.4,100.0,68.2,0.0,44.2,0.0,99.7,49.0,79.4,Moderate,,No change,,4,1
+98250,,San Juan County,Puget Sound North,9254,4425,6095,3375,76.3,88556,801200,55.2,48.0,4.1,69.2,89.2,70.9,74.7,0.0,61.6,0.0,77.0,87.6,80.1,Moderate,,No change,,0,1
+98251,,Snohomish County,Puget Sound North,4907,1905,2340,1703,89.4,83891,448900,40.4,22.2,3.2,74.2,89.8,85.7,79.3,0.0,99.5,100.0,100.0,72.2,88.1,High,Combined score,Construction and deductible review,,0,2
+98252,,Snohomish County,Puget Sound North,10361,3838,4193,3297,85.9,98370,520700,40.3,31.8,6.5,73.8,87.7,43.0,68.6,0.0,76.9,45.6,97.2,61.6,80.9,Moderate,,No change,,5,2
+98253,,Island County,Puget Sound North,2311,1226,1785,1086,88.6,71131,789800,66.3,71.4,1.5,77.2,89.6,100.0,63.1,0.0,28.0,0.0,99.9,45.7,75.2,Moderate,,No change,,1,0
+98255,,Skagit County,Puget Sound North,198,99,105,84,84.8,68194,217500,38.9,35.4,0.0,60.6,81.7,0.0,72.4,0.0,93.6,100.0,94.5,92.1,80.9,Moderate,,No change,,0,0
+98256,,Snohomish County,Puget Sound North,368,156,310,134,85.9,94375,430000,45.2,48.7,0.0,82.7,85.3,0.0,81.5,0.0,99.0,100.0,100.0,78.2,86.8,High,Combined score,Construction and deductible review,,0,0
+98257,,Skagit County,Puget Sound North,4277,2033,2369,1589,78.2,94425,506200,61.5,61.4,5.6,69.6,87.3,20.2,64.1,0.0,25.3,20.2,74.9,45.6,71.7,Low,,No change,,2,1
+98258,,Snohomish County,Puget Sound North,52752,18181,18873,14281,78.5,123898,653100,36.1,22.2,2.7,78.5,85.4,2.5,59.4,0.0,37.0,4.8,93.7,56.8,72.3,Low,,No change,Yes,3,1
+98260,,Island County,Puget Sound North,5320,2546,3276,2148,84.4,101987,678400,63.3,60.3,5.3,65.6,93.9,100.0,72.9,0.0,47.9,0.0,99.9,55.3,82.6,High,Combined score,Construction and deductible review,,6,3
+98261,,San Juan County,Puget Sound North,2984,1468,2415,1183,80.6,80119,787800,62.2,60.8,3.2,70.2,87.8,0.0,72.4,0.0,52.5,0.0,77.3,79.8,77.8,Moderate,,No change,,0,1
+98262,,Whatcom County,Puget Sound North,957,458,860,407,88.9,83000,579000,61.1,63.3,0.9,60.9,78.8,0.0,70.5,0.0,6.6,0.0,94.8,32.3,70.3,Low,,No change,,0,0
+98263,,Skagit County,Puget Sound North,200,75,81,68,90.7,133750,400000,36.3,9.3,0.0,84.0,81.7,0.0,72.4,0.0,93.6,100.0,94.5,92.1,80.9,Moderate,,No change,,0,0
+98264,,Whatcom County,Puget Sound North,23123,8285,8622,5664,68.4,103638,609100,35.8,32.0,4.5,69.8,93.2,100.0,68.1,0.0,76.2,8.9,66.2,68.8,80.0,Moderate,,No change,Yes,5,3
+98266,,Whatcom County,Puget Sound North,4245,1749,2088,1325,75.8,51361,421200,43.0,27.3,7.3,67.4,77.6,0.0,84.5,0.0,68.2,4.3,97.6,95.3,81.1,Moderate,,No change,,3,0
+98267,,Skagit County,Puget Sound North,314,206,424,102,49.5,,412500,60.1,21.8,1.0,48.5,82.7,0.0,84.2,0.0,98.7,100.0,98.8,95.1,86.4,High,Combined score,Construction and deductible review,,0,0
+98270,,Snohomish County,Puget Sound North,55049,19462,19887,13744,70.6,108147,579900,38.8,28.3,5.5,73.5,89.3,37.9,50.6,0.0,36.6,0.0,79.0,57.9,69.5,Low,,No change,Yes,19,16
+98271,,Snohomish County,Puget Sound North,30838,11301,12026,8140,72.0,95654,538400,39.4,34.3,4.0,72.5,94.0,73.0,61.6,0.0,58.6,0.0,89.7,64.9,78.7,Moderate,,No change,,7,9
+98272,,Snohomish County,Puget Sound North,31436,10196,10361,8227,80.7,122352,713300,37.9,25.6,2.3,77.0,91.0,65.9,51.3,0.0,78.2,59.2,82.7,60.0,75.0,Moderate,,No change,Yes,5,9
+98273,,Skagit County,Puget Sound North,30001,11583,11989,7117,61.4,76717,492300,37.0,35.8,6.4,64.8,91.9,66.4,58.8,0.0,73.3,28.3,52.1,58.4,74.5,Moderate,,No change,,14,6
+98274,,Skagit County,Puget Sound North,18860,7159,7872,5535,77.3,96177,547700,41.6,40.3,2.3,73.8,86.7,38.1,54.0,0.0,52.9,14.4,61.1,54.2,69.3,Low,,No change,,2,1
+98275,,Snohomish County,Puget Sound North,21323,8365,8752,5906,70.6,132861,884900,42.8,33.6,2.9,66.5,94.7,100.0,63.7,0.0,38.6,0.0,94.0,65.5,78.2,High,Earthquake,Construction and deductible review,Yes,6,1
+98276,,Whatcom County,Puget Sound North,1794,605,631,518,85.6,97159,524300,31.6,21.3,2.3,81.2,86.8,3.6,72.8,0.0,77.5,3.6,93.9,63.6,81.7,Moderate,,No change,,0,0
+98277,,Island County,Puget Sound North,40917,16142,17882,9635,59.7,83253,499600,34.9,28.5,4.9,64.6,89.6,69.5,46.2,0.0,20.6,0.0,92.8,49.9,67.8,Low,,No change,,9,4
+98278,,Island County,Puget Sound North,1932,0,0,0,,,,22.0,,,,90.4,100.0,44.0,0.0,1.7,0.0,79.8,28.6,64.2,Low,,No change,,0,0
+98279,,San Juan County,Puget Sound North,680,342,759,239,69.9,70417,937500,56.7,50.9,0.9,62.3,86.8,0.0,80.0,0.0,64.6,0.0,93.3,87.8,82.9,High,Combined score,Construction and deductible review,,0,0
+98280,,San Juan County,Puget Sound North,442,242,379,203,83.9,80192,1031300,61.9,57.9,0.0,63.2,83.0,0.0,78.2,0.0,32.3,0.0,88.5,76.1,76.8,Moderate,,No change,,0,1
+98281,,Whatcom County,Puget Sound North,1288,743,2105,641,86.3,78125,483900,58.2,42.4,6.1,52.6,85.4,0.0,71.8,0.0,25.4,0.0,83.6,41.9,74.5,Low,,No change,,1,1
+98282,,Island County,Puget Sound North,17303,7515,8837,6784,90.3,105231,670800,56.8,51.9,2.0,77.4,90.5,100.0,69.3,0.0,39.0,0.0,99.9,53.2,78.9,Moderate,,No change,Yes,5,7
+98283,,Whatcom County,Puget Sound North,442,148,168,121,81.8,72237,338000,45.7,31.1,6.1,77.7,70.6,0.0,88.7,0.0,96.6,100.0,99.7,91.6,82.4,High,Combined score,Construction and deductible review,,0,0
+98284,,Skagit County,Puget Sound North,27835,10773,11256,7867,73.0,93006,482500,39.7,32.6,2.7,80.4,82.7,0.0,58.5,0.0,67.7,25.9,60.2,56.9,70.5,Low,,No change,,7,5
+98286,,San Juan County,Puget Sound North,155,87,227,63,72.4,74250,675000,69.4,63.2,2.3,55.2,85.9,0.0,77.8,0.0,57.7,0.0,87.6,79.3,80.4,Moderate,,No change,,0,0
+98288,,King County,Seattle & King County,169,92,369,57,62.0,64583,450000,48.8,50.0,3.3,71.7,88.2,0.0,90.3,0.0,99.2,100.0,99.9,65.8,91.2,High,Combined score,Construction and deductible review,,0,0
+98290,,Snohomish County,Puget Sound North,39826,14424,15384,11645,80.7,132973,784200,41.5,33.7,2.0,75.7,90.2,47.3,58.2,0.0,63.5,21.3,93.1,58.7,76.6,Moderate,,No change,Yes,18,3
+98292,,Snohomish County,Puget Sound North,27389,9912,10459,7860,79.3,101765,654100,41.9,42.8,3.7,75.9,93.5,77.9,68.4,0.0,66.0,58.1,97.8,65.4,82.4,High,Combined score,Construction and deductible review,Yes,4,3
+98294,,Snohomish County,Puget Sound North,7963,2833,2973,2407,85.0,96676,527600,37.8,26.7,0.8,71.8,91.6,92.7,70.9,0.0,98.4,100.0,98.6,67.3,85.7,High,Combined score,Construction and deductible review,,2,2
+98295,,Whatcom County,Puget Sound North,3279,1150,1229,672,58.4,98965,456200,37.1,24.7,2.7,77.8,91.9,76.1,73.4,0.0,86.3,85.6,89.8,69.8,84.7,High,Combined score,Construction and deductible review,,1,0
+98296,,Snohomish County,Puget Sound North,27896,9611,9743,8546,88.9,177583,927700,41.7,25.7,1.1,85.4,88.2,41.3,59.2,0.0,35.1,0.0,92.8,53.3,73.2,Low,,No change,Yes,8,1
+98297,,San Juan County,Puget Sound North,47,41,168,39,95.1,45625,405600,67.8,53.7,14.6,7.3,85.0,0.0,77.8,0.0,37.1,0.0,87.7,77.2,78.0,Moderate,,No change,,0,0
+98303,,Pierce County,South Sound,1448,819,1112,791,96.6,80282,546300,61.6,49.3,2.8,69.5,97.4,100.0,78.3,0.0,76.1,0.0,94.9,48.9,88.3,Extreme,Earthquake,Check appetite,,0,0
+98304,,Pierce County,South Sound,770,402,793,371,92.3,113718,312900,54.9,23.9,0.0,80.1,86.5,25.8,94.5,71.6,89.2,100.0,99.6,53.4,90.9,Extreme,Wildfire,Check appetite,,0,0
+98305,,Clallam County,Olympic Peninsula & Coast,419,161,161,94,58.4,98715,265300,48.0,47.8,0.0,93.2,95.6,100.0,70.8,0.0,93.9,86.6,98.0,94.8,87.0,High,Earthquake,Construction and deductible review,,0,0
+98310,,Kitsap County,South Sound,22643,9422,9953,4815,51.1,75878,440500,35.1,26.8,5.5,60.5,94.7,85.0,42.0,0.0,12.2,0.0,93.3,41.0,67.9,High,Earthquake,Construction and deductible review,,3,5
+98311,,Kitsap County,South Sound,28168,10458,11052,7945,76.0,108757,471800,38.0,34.5,2.9,73.0,92.0,84.0,48.1,0.0,14.7,0.0,94.4,40.0,69.1,Moderate,,No change,Yes,7,8
+98312,,Kitsap County,South Sound,36307,14436,15340,9170,63.5,90449,473100,36.8,28.8,6.1,65.1,94.0,100.0,49.7,0.0,34.5,0.0,96.8,40.3,72.8,Moderate,,No change,,4,1
+98314,,Kitsap County,South Sound,1186,33,33,0,0.0,184417,,21.8,0.0,0.0,57.6,88.1,0.0,0.0,0.0,1.3,0.0,87.8,31.7,48.6,Low,,No change,,0,0
+98315,,Kitsap County,South Sound,6112,1172,1262,15,1.3,79918,,22.0,0.6,1.3,80.6,95.2,100.0,63.0,0.0,7.7,0.0,97.4,44.0,75.4,High,Earthquake,Construction and deductible review,,0,0
+98320,,Jefferson County,Olympic Peninsula & Coast,1219,564,1275,475,84.2,55893,285200,62.7,59.9,4.8,56.6,93.0,100.0,75.9,0.0,94.9,100.0,99.7,94.6,87.9,High,Combined score,Construction and deductible review,,0,0
+98321,,Pierce County,South Sound,18150,6055,6347,5493,90.7,127411,571200,41.2,31.2,1.3,84.1,90.7,73.0,57.3,0.0,63.8,11.7,71.3,49.6,74.4,Low,,No change,Yes,8,7
+98323,,Pierce County,South Sound,767,253,263,220,87.0,121875,463500,33.2,24.9,2.8,90.9,86.4,0.0,81.7,52.1,88.4,100.0,94.5,47.9,85.8,High,Wildfire,Construction and deductible review,,2,0
+98325,,Jefferson County,Olympic Peninsula & Coast,1775,794,966,575,72.4,79191,446300,50.1,37.3,1.8,80.1,93.8,100.0,65.7,0.0,64.6,0.0,93.1,95.4,81.0,Moderate,,No change,,0,0
+98326,,Clallam County,Olympic Peninsula & Coast,1207,382,441,228,59.7,46500,266100,45.6,32.7,0.0,66.5,96.2,100.0,70.8,0.0,97.5,100.0,99.0,94.9,87.7,High,Earthquake,Construction and deductible review,,0,0
+98327,,Pierce County,South Sound,9931,3833,3948,2359,61.5,120781,583600,34.3,20.0,5.4,67.3,92.5,100.0,60.7,0.0,40.6,0.0,59.5,35.1,72.9,Moderate,,No change,Yes,2,1
+98328,,Pierce County,South Sound,9891,3662,4097,3013,82.3,103696,591800,42.3,32.3,7.0,75.3,89.8,100.0,79.1,0.0,78.3,51.2,87.7,56.3,84.7,High,Combined score,Construction and deductible review,Yes,3,2
+98329,,Pierce County,South Sound,11552,4518,4638,4028,89.2,110316,518700,42.9,36.5,1.0,84.2,92.2,100.0,58.3,0.0,51.1,0.0,85.4,38.1,75.5,Moderate,,No change,Yes,2,2
+98330,,Pierce County,South Sound,61,31,72,15,48.4,,,37.0,0.0,0.0,100.0,89.6,100.0,90.1,0.0,91.6,100.0,99.0,62.9,90.9,High,Combined score,Construction and deductible review,,0,0
+98331,,Jefferson County,Olympic Peninsula & Coast,5826,2397,2901,1521,63.5,62135,230500,42.0,37.0,6.0,61.2,97.2,100.0,67.5,0.0,85.7,91.2,83.8,92.2,84.3,Extreme,Earthquake,Check appetite,,1,0
+98332,,Pierce County,South Sound,20072,7662,7864,6484,84.6,135330,748200,46.6,42.7,2.0,77.4,93.9,100.0,63.0,0.0,52.7,0.0,83.4,39.2,77.9,Moderate,,No change,Yes,11,0
+98333,,Pierce County,South Sound,3414,1393,1556,1292,92.7,172292,1003900,53.1,43.2,2.3,86.2,89.1,100.0,72.4,0.0,54.0,0.0,87.6,34.5,79.6,Moderate,,No change,,1,0
+98335,,Pierce County,South Sound,27773,10995,11435,8340,75.9,128592,791100,43.8,41.4,2.1,75.3,93.7,90.6,65.9,0.0,47.9,0.0,85.6,39.5,78.6,Moderate,,No change,Yes,7,3
+98336,,Lewis County,Southwest Washington,981,378,378,352,93.1,67632,246600,37.2,42.6,0.0,65.1,92.5,100.0,82.6,0.0,99.0,100.0,98.4,81.4,90.3,High,Combined score,Construction and deductible review,,0,0
+98337,,Kitsap County,South Sound,7370,3138,3642,1457,46.4,68561,417700,33.4,17.3,12.0,44.0,93.3,70.2,7.0,0.0,11.3,0.0,85.2,32.4,54.1,Moderate,,No change,,5,1
+98338,,Pierce County,South Sound,32687,10894,11396,9210,84.5,114819,509600,37.8,28.1,3.8,81.5,87.8,52.7,55.8,0.0,32.0,0.0,55.0,39.7,67.7,Low,,No change,Yes,11,8
+98339,,Jefferson County,Olympic Peninsula & Coast,3658,1538,1670,1232,80.1,77778,409800,48.4,41.5,9.1,60.5,90.7,100.0,61.3,0.0,38.1,0.0,80.6,92.1,74.1,Low,,No change,,1,0
+98340,,Kitsap County,South Sound,2721,1285,1901,1094,85.1,79876,569700,66.2,71.8,9.7,72.5,94.8,100.0,70.0,0.0,54.9,0.0,99.4,56.2,82.6,High,Earthquake,Construction and deductible review,,4,1
+98342,,Kitsap County,South Sound,1338,636,806,523,82.2,102778,698500,56.3,44.0,1.1,68.7,86.9,0.0,55.8,0.0,11.4,0.0,97.5,37.2,69.5,Low,,No change,,0,0
+98345,,Kitsap County,South Sound,221,95,175,47,49.5,,524000,57.0,62.1,0.0,50.5,99.4,100.0,64.6,0.0,36.2,0.0,99.2,40.8,80.9,Extreme,Earthquake,Check appetite,,0,0
+98346,,Kitsap County,South Sound,9920,4010,4267,3241,80.8,114779,612800,47.3,48.1,2.1,75.6,94.1,87.4,66.6,0.0,43.5,0.0,99.2,52.1,79.9,Moderate,,No change,Yes,2,3
+98349,,Pierce County,South Sound,4931,2305,3041,2014,87.4,75875,370200,49.3,41.0,3.1,82.5,96.5,100.0,75.7,0.0,69.4,0.0,93.7,43.8,86.2,Extreme,Earthquake,Check appetite,,4,0
+98350,,Clallam County,Olympic Peninsula & Coast,344,100,117,64,64.0,51250,,33.5,36.0,11.0,51.0,96.2,100.0,70.8,0.0,97.5,100.0,99.0,94.9,87.7,High,Earthquake,Construction and deductible review,,0,0
+98351,,Pierce County,South Sound,1891,687,818,640,93.2,151660,752100,52.5,50.8,1.9,82.0,97.4,100.0,78.3,0.0,76.1,0.0,94.9,48.9,88.3,Extreme,Earthquake,Check appetite,,0,0
+98354,,Pierce County,South Sound,8597,3178,3274,1767,55.6,96866,536800,37.7,28.6,5.7,56.8,95.1,100.0,53.1,0.0,25.5,0.2,70.8,39.2,71.0,High,Earthquake,Construction and deductible review,,0,3
+98355,,Lewis County,Southwest Washington,702,181,318,141,77.9,102438,402900,31.2,17.7,6.1,80.1,88.1,0.0,88.9,0.0,95.6,100.0,98.9,56.1,90.2,High,Combined score,Construction and deductible review,,0,0
+98356,,Lewis County,Southwest Washington,2172,962,1045,765,79.5,60060,308500,57.1,58.0,2.8,67.8,91.1,73.0,85.9,0.0,98.0,100.0,98.6,70.1,90.7,High,Combined score,Construction and deductible review,,0,0
+98357,,Clallam County,Olympic Peninsula & Coast,1519,493,558,349,70.8,55250,133600,33.1,28.2,3.4,59.0,84.5,0.0,52.3,0.0,38.2,0.0,92.3,74.5,69.4,Low,,No change,,2,0
+98358,,Jefferson County,Olympic Peninsula & Coast,1164,519,634,442,85.2,110368,756000,62.5,54.9,0.0,74.0,90.9,100.0,61.0,0.0,35.2,0.0,76.3,91.8,73.4,Low,,No change,,1,1
+98359,,Kitsap County,South Sound,4581,1730,1909,1523,88.0,114091,610500,48.9,44.7,4.5,75.0,89.0,49.7,58.2,0.0,16.8,0.0,98.6,34.3,72.0,Low,,No change,,2,0
+98360,,Pierce County,South Sound,15045,5117,5389,4548,88.9,125842,505200,37.2,23.5,2.3,80.0,89.4,76.1,49.8,1.3,65.8,48.8,51.1,40.9,69.3,Low,,No change,Yes,3,8
+98361,,Lewis County,Southwest Washington,457,236,1480,236,100.0,,292700,63.5,65.7,5.1,58.5,89.3,100.0,96.1,0.0,99.7,100.0,99.6,81.1,93.8,High,Combined score,Construction and deductible review,,1,0
+98362,,Clallam County,Olympic Peninsula & Coast,24313,11023,11857,7420,67.3,70123,403300,48.6,43.4,7.8,59.0,95.3,100.0,56.4,0.0,42.2,0.0,60.2,91.5,72.9,High,Earthquake,Construction and deductible review,,9,4
+98363,,Clallam County,Olympic Peninsula & Coast,14237,6224,7134,4618,74.2,64869,385100,46.4,41.5,4.3,70.3,94.2,100.0,54.4,0.0,39.2,3.0,60.5,91.6,71.4,Moderate,,No change,,4,3
+98365,,Jefferson County,Olympic Peninsula & Coast,5168,2629,3144,2340,89.0,98776,673800,65.1,61.8,2.4,65.5,91.5,100.0,65.0,0.0,56.0,0.0,91.3,94.2,78.7,Moderate,,No change,,1,0
+98366,,Kitsap County,South Sound,36965,14296,15328,9913,69.3,92011,475800,37.9,28.9,7.0,69.9,96.6,100.0,55.2,0.0,29.4,0.0,97.5,47.5,75.5,Extreme,Earthquake,Check appetite,,3,3
+98367,,Kitsap County,South Sound,31756,12227,13003,10413,85.2,115482,565100,43.5,35.3,1.1,79.2,93.0,100.0,62.2,0.0,39.3,0.0,98.6,42.7,77.4,Moderate,,No change,Yes,5,12
+98368,,Jefferson County,Olympic Peninsula & Coast,17304,8839,9822,6528,73.9,69688,554300,59.9,56.7,5.4,58.6,92.5,61.1,57.5,0.0,33.3,0.0,71.2,91.8,72.2,Moderate,,No change,,5,0
+98370,,Kitsap County,South Sound,33655,13501,14116,10189,75.5,116756,628600,44.4,37.8,3.5,71.5,94.8,94.6,59.0,0.0,30.6,0.0,98.3,44.0,76.2,High,Earthquake,Construction and deductible review,Yes,8,6
+98371,,Pierce County,South Sound,24682,9603,10231,6907,71.9,97242,556800,38.8,33.5,4.6,69.1,96.4,99.8,47.3,0.0,78.7,64.0,57.2,39.2,73.5,High,Earthquake,Construction and deductible review,,1,1
+98372,,Pierce County,South Sound,26012,10231,10588,5371,52.5,98152,589900,38.2,25.8,4.0,70.8,95.4,97.5,55.8,0.0,55.2,38.1,71.3,38.6,75.1,High,Earthquake,Construction and deductible review,,8,5
+98373,,Pierce County,South Sound,28883,11008,11295,6027,54.8,103796,565700,35.6,22.5,2.1,71.0,90.1,53.0,54.7,0.0,39.6,0.0,54.0,39.8,69.0,Low,,No change,,9,5
+98374,,Pierce County,South Sound,49007,16799,17405,11845,70.5,112662,535300,36.1,31.2,5.0,72.6,88.9,42.3,50.5,0.0,38.0,0.0,49.9,38.2,66.5,Low,,No change,Yes,19,15
+98375,,Pierce County,South Sound,31187,10242,10620,7720,75.4,117074,522100,33.5,19.8,2.5,77.0,85.7,20.6,50.4,0.0,23.9,0.0,39.8,34.4,62.6,Low,,No change,Yes,4,3
+98376,,Jefferson County,Olympic Peninsula & Coast,1982,940,1324,875,93.1,57250,344700,61.8,60.7,1.3,77.9,90.7,100.0,67.1,0.0,65.2,0.0,95.6,90.7,80.4,Moderate,,No change,,0,0
+98377,,Lewis County,Southwest Washington,2527,1090,1227,867,79.5,56167,424300,52.8,50.6,1.1,72.1,89.5,100.0,95.3,0.0,99.7,100.0,99.5,81.1,93.5,High,Combined score,Construction and deductible review,,0,0
+98380,,Kitsap County,South Sound,5471,1843,2122,1618,87.8,125229,578900,41.7,41.2,0.5,78.3,93.1,100.0,68.0,0.0,63.7,0.0,99.7,51.4,82.0,High,Combined score,Construction and deductible review,,2,2
+98381,,Clallam County,Olympic Peninsula & Coast,203,72,129,58,80.6,58571,273900,52.6,51.4,0.0,76.4,96.2,100.0,70.8,0.0,97.5,100.0,99.0,94.9,87.7,High,Earthquake,Construction and deductible review,,0,0
+98382,,Clallam County,Olympic Peninsula & Coast,31052,14711,16014,11934,81.1,74189,493900,61.8,61.4,4.5,64.9,93.8,91.8,57.9,0.0,44.7,0.0,50.4,90.9,72.0,Moderate,,No change,,9,8
+98383,,Kitsap County,South Sound,21604,9056,9754,5119,56.5,111139,596400,41.2,34.3,3.8,68.8,94.0,89.6,47.6,0.0,30.7,0.0,96.6,43.1,71.7,Moderate,,No change,,0,0
+98385,,Pierce County,South Sound,457,162,170,154,95.1,152500,504400,38.7,42.0,8.6,77.8,85.7,0.1,45.3,0.0,39.0,25.4,64.0,40.0,64.7,Low,,No change,,0,0
+98387,,Pierce County,South Sound,50774,16746,17404,12957,77.4,106872,461000,34.3,24.6,3.2,77.6,87.7,52.0,52.1,0.0,27.5,0.0,32.8,37.4,63.7,Low,,No change,Yes,19,14
+98388,,Pierce County,South Sound,7043,2813,2889,1768,62.9,100851,655000,40.7,33.3,2.9,66.9,91.1,66.9,58.2,0.0,36.5,0.0,67.2,34.1,71.7,Moderate,,No change,,0,0
+98390,,Pierce County,South Sound,11546,4889,4953,2710,55.4,97795,510000,37.9,27.6,4.6,63.7,95.8,95.1,51.8,0.0,84.4,68.9,56.5,41.5,75.3,High,Earthquake,Construction and deductible review,,1,1
+98391,,Pierce County,South Sound,59240,20500,21222,17574,85.7,135037,626800,37.1,25.9,2.3,80.1,88.6,68.2,53.8,0.0,42.3,0.0,71.5,46.6,70.1,Low,,No change,Yes,12,7
+98392,,Kitsap County,South Sound,2984,1238,1333,949,76.7,85530,452400,43.7,37.3,3.3,67.0,95.2,100.0,67.2,0.0,43.8,0.0,99.2,46.0,80.7,High,Earthquake,Construction and deductible review,,1,0
+98394,,Pierce County,South Sound,892,387,540,330,85.3,,572400,44.6,37.2,9.0,74.4,95.2,100.0,72.2,0.0,62.4,0.0,91.6,38.9,83.5,High,Earthquake,Construction and deductible review,,0,0
+98396,,Pierce County,South Sound,844,311,323,264,84.9,112031,485400,39.8,27.3,0.0,86.2,87.4,0.0,67.9,6.9,88.7,100.0,89.5,46.1,80.9,Moderate,,No change,,0,0
+98402,,Pierce County,South Sound,8080,4625,5007,824,17.8,60505,531300,33.5,17.3,25.7,22.5,98.9,100.0,23.4,0.0,22.3,1.4,56.7,32.2,60.6,Extreme,Earthquake,Check appetite,,1,2
+98403,,Pierce County,South Sound,9097,4818,5014,1912,39.7,88056,829800,39.4,23.9,11.1,45.2,98.0,100.0,19.6,0.0,35.1,0.0,63.9,36.8,60.9,Extreme,Earthquake,Check appetite,,0,3
+98404,,Pierce County,South Sound,35961,12435,12967,8533,68.6,82191,413900,35.1,24.9,6.9,67.1,91.7,77.5,38.9,0.0,17.6,1.8,37.3,39.0,60.4,Moderate,,No change,,10,14
+98405,,Pierce County,South Sound,25939,11421,12015,5619,49.2,75946,464700,38.5,24.3,11.1,53.3,97.6,100.0,32.5,0.0,24.1,0.0,41.3,39.4,61.8,Extreme,Earthquake,Check appetite,,7,7
+98406,,Pierce County,South Sound,24202,10557,10925,6474,61.3,104264,638400,41.7,31.6,7.4,59.3,95.2,100.0,34.6,0.0,27.9,0.0,38.0,37.1,61.5,High,Earthquake,Construction and deductible review,Yes,9,6
+98407,,Pierce County,South Sound,21718,10159,10746,6448,63.5,110288,656600,46.2,38.3,6.5,58.1,96.2,100.0,39.2,0.0,21.6,0.0,61.1,36.8,65.3,High,Earthquake,Construction and deductible review,Yes,3,11
+98408,,Pierce County,South Sound,21009,8134,8459,5802,71.3,80899,410500,38.1,27.0,6.2,61.8,92.1,96.9,18.4,0.0,16.2,0.0,25.9,38.4,52.1,Moderate,,No change,,11,4
+98409,,Pierce County,South Sound,27843,12218,12688,5428,44.4,73348,394500,33.2,18.2,10.1,52.2,93.9,83.1,34.9,0.0,37.2,15.6,51.3,40.0,63.3,Moderate,,No change,,5,8
+98416,,Pierce County,South Sound,934,0,0,0,,,,20.3,,,,97.3,100.0,46.5,0.0,44.7,0.0,30.5,41.4,67.6,Extreme,Earthquake,Check appetite,,0,0
+98418,,Pierce County,South Sound,10264,4284,4558,2732,63.8,89706,413400,37.5,23.0,5.6,57.5,91.2,63.3,5.7,0.0,9.9,0.0,27.5,33.4,46.8,Moderate,,No change,,5,1
+98421,,Pierce County,South Sound,424,95,108,5,5.3,26307,,33.1,0.0,12.6,0.0,99.4,100.0,56.1,0.0,83.7,91.7,77.7,31.5,80.5,Extreme,Earthquake,Check appetite,,1,0
+98422,,Pierce County,South Sound,21644,8038,8313,6279,78.1,118604,663800,40.0,31.1,1.7,73.8,89.6,79.8,50.8,0.0,25.2,4.5,75.9,37.5,68.2,Low,,No change,Yes,4,3
+98424,,Pierce County,South Sound,11816,4355,4596,2137,49.1,94122,561600,31.6,16.3,2.9,63.0,94.4,70.1,51.9,0.0,79.2,58.5,38.0,34.3,72.4,Moderate,,No change,,0,2
+98430,,Pierce County,South Sound,582,0,0,0,,,,22.9,,,,87.2,0.0,57.1,0.0,11.7,0.0,65.9,39.2,67.0,Low,,No change,,0,0
+98433,,Pierce County,South Sound,22493,4397,4915,41,0.9,60158,,23.0,0.3,4.2,65.2,89.1,68.0,48.8,0.0,23.2,0.0,50.1,40.1,64.5,Low,,No change,,2,0
+98438,,Pierce County,South Sound,613,58,58,22,37.9,,,22.4,0.0,20.7,0.0,88.5,0.0,47.3,0.0,21.0,0.0,37.4,28.6,62.2,Low,,No change,,0,0
+98439,,Pierce County,South Sound,5671,2139,2416,196,9.2,50509,,25.1,1.5,11.0,50.6,93.2,54.4,52.7,0.0,37.7,0.0,38.0,39.1,68.0,Moderate,,No change,,0,3
+98443,,Pierce County,South Sound,5558,2221,2298,1817,81.8,105035,519100,43.3,35.7,2.4,68.7,98.5,100.0,65.4,0.0,96.2,100.0,85.1,51.8,85.3,Extreme,Earthquake,Check appetite,,1,0
+98444,,Pierce County,South Sound,35754,13094,14109,5758,44.0,65342,416400,33.6,24.3,9.0,57.2,91.9,84.0,35.8,0.0,35.0,0.0,29.1,39.0,60.3,Moderate,,No change,,14,17
+98445,,Pierce County,South Sound,33684,11981,12526,8202,68.5,92520,444800,38.1,33.2,4.9,71.9,89.2,76.6,48.9,0.0,30.9,0.0,29.5,37.6,63.3,Low,,No change,,22,5
+98446,,Pierce County,South Sound,14634,5257,5579,3512,66.8,101938,487500,36.7,24.9,4.0,82.2,89.7,52.4,58.4,0.0,35.1,0.1,46.3,37.8,68.9,Low,,No change,Yes,2,3
+98447,,Pierce County,South Sound,921,0,0,0,,,,20.4,,,,97.2,100.0,37.8,0.0,34.5,0.0,35.8,38.8,64.0,Extreme,Earthquake,Check appetite,,0,0
+98465,,Pierce County,South Sound,7178,3620,3650,1923,53.1,73226,593300,42.0,32.5,12.2,49.0,97.1,100.0,47.5,0.0,30.0,0.0,55.6,40.1,68.9,Extreme,Earthquake,Check appetite,,1,2
+98466,,Pierce County,South Sound,30327,12118,12509,6450,53.2,101778,602400,39.9,32.1,5.2,62.5,94.7,99.9,46.4,0.0,31.4,0.0,57.1,41.8,67.7,High,Earthquake,Construction and deductible review,,9,6
+98467,,Pierce County,South Sound,15387,6304,6579,3771,59.8,91354,623800,40.5,33.3,4.7,59.9,90.3,82.7,52.5,0.0,36.7,0.0,65.5,40.9,69.2,Low,,No change,,2,0
+98498,,Pierce County,South Sound,29209,11857,12918,7575,63.9,91664,506300,40.8,34.6,8.0,61.7,94.8,96.0,56.1,0.0,48.2,17.8,57.0,43.0,72.8,High,Earthquake,Construction and deductible review,,8,11
+98499,,Pierce County,South Sound,32464,13904,14860,5269,37.9,67292,408500,36.2,30.0,8.4,50.0,97.3,99.9,48.3,0.0,56.8,12.5,38.0,44.9,70.2,Extreme,Earthquake,Check appetite,,4,13
+98501,,Thurston County,South Sound,48067,19783,20717,12209,61.7,97198,529300,39.5,29.0,4.3,60.7,95.5,100.0,55.1,0.0,54.6,1.5,79.7,37.4,75.7,High,Earthquake,Construction and deductible review,,5,12
+98502,,Thurston County,South Sound,35398,14791,15663,8484,57.4,92207,537200,40.6,34.1,5.9,58.3,94.4,92.1,63.2,0.0,51.4,0.1,92.7,40.9,79.0,Moderate,,No change,,3,8
+98503,,Thurston County,South Sound,41656,17664,18387,10314,58.4,89002,438100,41.1,34.9,6.5,57.8,93.3,82.6,49.7,0.0,35.8,0.0,56.7,37.6,68.6,Moderate,,No change,,6,7
+98505,,Thurston County,South Sound,881,0,0,0,,,,19.9,,,,91.4,100.0,61.3,0.0,38.2,0.0,92.5,41.8,75.7,Moderate,,No change,,0,0
+98506,,Thurston County,South Sound,18497,8610,9133,5711,66.3,91596,490900,48.4,41.4,7.3,57.6,96.4,100.0,60.1,0.0,53.1,0.0,89.3,38.8,78.7,High,Earthquake,Construction and deductible review,,4,10
+98512,,Thurston County,South Sound,31864,12719,13205,9207,72.4,101530,472100,40.6,31.1,6.2,66.0,95.0,100.0,66.9,0.0,62.9,9.9,93.1,41.0,81.8,High,Earthquake,Construction and deductible review,Yes,11,5
+98513,,Thurston County,South Sound,38017,13657,14479,10853,79.5,113053,470700,38.2,31.9,1.7,74.4,89.8,76.5,55.3,0.0,47.8,1.7,69.8,36.3,71.5,Low,,No change,Yes,8,3
+98516,,Thurston County,South Sound,29177,11474,12126,7530,65.6,98892,572500,38.0,33.9,5.3,67.7,95.4,100.0,63.7,0.0,60.8,20.4,85.1,43.6,79.8,High,Earthquake,Construction and deductible review,,9,4
+98520,,Grays Harbor County,Olympic Peninsula & Coast,24888,8723,9450,5634,64.6,58153,250800,39.2,36.2,7.9,59.0,97.5,100.0,53.0,0.0,65.3,31.9,78.9,42.3,76.8,Extreme,Earthquake,Check appetite,,7,10
+98524,,Mason County,South Sound,4300,1738,2126,1644,94.6,99483,526800,51.9,51.3,1.5,74.7,92.5,100.0,61.7,0.0,68.8,37.9,97.0,51.1,79.8,Moderate,,No change,,2,1
+98526,,Grays Harbor County,Olympic Peninsula & Coast,180,85,158,68,80.0,58162,215000,50.2,52.9,3.5,74.1,91.7,100.0,64.4,0.0,64.1,19.9,95.9,38.6,79.8,Moderate,,No change,,0,0
+98527,,Pacific County,Olympic Peninsula & Coast,273,132,221,127,96.2,59659,490000,58.3,34.8,3.8,85.6,91.0,100.0,69.2,0.0,51.6,0.0,95.7,30.7,79.9,Moderate,,No change,,0,0
+98528,,Mason County,South Sound,11940,4412,5379,3555,80.6,91058,430200,42.2,41.3,6.2,74.5,95.1,82.0,72.7,0.0,76.8,76.4,97.9,59.0,85.7,High,Earthquake,Construction and deductible review,,2,4
+98530,,Thurston County,South Sound,619,222,231,176,79.3,80682,335300,39.9,31.1,0.0,69.4,94.3,100.0,85.0,0.0,98.7,100.0,99.5,42.4,92.0,High,Combined score,Construction and deductible review,,0,0
+98531,,Lewis County,Southwest Washington,27337,11123,11525,7309,65.7,63406,343000,40.3,37.8,5.9,61.7,95.4,94.8,63.8,0.0,87.2,88.4,64.8,38.2,80.5,High,Earthquake,Construction and deductible review,,5,5
+98532,,Lewis County,Southwest Washington,27135,9931,10508,7863,79.2,89910,427100,41.1,39.6,4.8,75.4,93.5,88.3,68.0,0.0,81.6,67.1,77.5,34.6,81.8,Moderate,,No change,,11,3
+98533,,Lewis County,Southwest Washington,890,355,372,222,62.5,39208,476500,60.1,38.3,0.0,89.0,88.1,0.0,88.9,0.0,95.6,100.0,98.9,56.1,90.2,High,Combined score,Construction and deductible review,,1,0
+98535,,Grays Harbor County,Olympic Peninsula & Coast,726,264,375,256,97.0,92544,286800,48.7,47.3,0.0,73.5,97.1,100.0,73.6,0.0,77.8,0.0,92.0,33.0,86.4,Extreme,Earthquake,Check appetite,,0,0
+98536,,Grays Harbor County,Olympic Peninsula & Coast,49,49,49,34,69.4,,,75.0,81.6,0.0,69.4,97.1,100.0,73.6,0.0,77.8,0.0,92.0,33.0,86.4,Extreme,Earthquake,Check appetite,,0,2
+98537,,Grays Harbor County,Olympic Peninsula & Coast,2820,1026,1133,872,85.0,79459,339000,41.2,37.5,4.4,71.6,95.7,100.0,67.8,0.0,88.2,78.9,94.9,48.1,85.1,High,Earthquake,Construction and deductible review,,3,0
+98538,,Lewis County,Southwest Washington,460,166,187,141,84.9,105000,482100,41.2,41.6,4.8,80.1,90.2,100.0,79.6,0.0,97.9,100.0,97.3,39.7,88.0,High,Combined score,Construction and deductible review,,0,0
+98539,,Lewis County,Southwest Washington,139,57,60,52,91.2,87625,400000,35.6,24.6,5.3,77.2,90.1,100.0,80.6,0.0,97.7,100.0,98.6,40.2,88.4,High,Combined score,Construction and deductible review,,0,0
+98541,,Grays Harbor County,Olympic Peninsula & Coast,10810,3870,4657,3047,78.7,78816,390000,44.2,35.3,2.9,73.4,96.4,99.9,60.6,0.0,90.6,99.9,93.6,51.4,83.0,High,Earthquake,Construction and deductible review,,3,1
+98542,,Lewis County,Southwest Washington,625,230,230,175,76.1,52963,372300,40.7,41.7,4.8,75.2,88.4,0.0,78.8,0.0,85.9,100.0,81.5,32.5,84.1,High,Combined score,Construction and deductible review,,0,0
+98546,,Mason County,South Sound,2430,1145,2089,1075,93.9,97159,494500,58.5,50.0,1.3,85.9,91.5,100.0,62.3,0.0,68.6,11.1,96.9,48.7,79.5,Moderate,,No change,,3,2
+98547,,Pacific County,Olympic Peninsula & Coast,1080,642,1356,546,85.0,42400,215200,62.2,46.4,6.7,47.8,94.1,100.0,71.5,0.0,39.3,0.0,95.5,37.9,80.8,Moderate,,No change,,0,1
+98548,,Mason County,South Sound,2177,1122,2374,1028,91.6,68452,315000,58.4,49.2,0.0,68.8,91.8,72.3,70.3,0.0,65.2,0.0,99.3,47.1,82.4,High,Combined score,Construction and deductible review,,0,2
+98550,,Grays Harbor County,Olympic Peninsula & Coast,12316,5018,5374,3347,66.7,55040,238900,40.6,43.0,7.7,55.5,97.8,100.0,60.4,0.0,67.6,34.9,93.3,43.0,81.2,Extreme,Earthquake,Check appetite,,8,9
+98552,,Grays Harbor County,Olympic Peninsula & Coast,140,39,50,29,74.4,47396,,53.4,35.9,2.6,79.5,94.9,100.0,66.2,0.0,81.5,94.0,99.0,48.4,83.9,High,Earthquake,Construction and deductible review,,0,0
+98555,,Mason County,South Sound,324,233,793,178,76.4,,462500,67.2,62.2,0.0,62.2,95.2,98.7,71.3,0.0,77.0,0.0,99.2,51.8,85.4,High,Earthquake,Construction and deductible review,,0,0
+98556,,Thurston County,South Sound,350,0,0,0,,,,37.0,,,,92.3,100.0,77.7,0.0,84.6,50.0,99.0,40.3,87.1,High,Combined score,Construction and deductible review,,0,0
+98557,,Grays Harbor County,Olympic Peninsula & Coast,4079,1600,1722,1380,86.2,78594,369300,38.3,35.7,2.1,75.6,93.9,100.0,58.5,0.0,89.2,100.0,95.4,46.2,81.2,Moderate,,No change,,0,0
+98558,,Pierce County,South Sound,61,0,0,0,,,,91.7,,,,96.0,100.0,69.6,0.0,89.5,100.0,74.9,52.8,84.0,High,Earthquake,Construction and deductible review,,1,0
+98560,,Mason County,South Sound,114,45,45,34,75.6,72596,526300,35.3,20.0,0.0,100.0,83.0,2.3,67.8,0.0,34.4,2.3,99.8,34.5,74.5,Low,,No change,,0,0
+98562,,Grays Harbor County,Olympic Peninsula & Coast,34,27,194,7,25.9,,,30.9,25.9,0.0,100.0,97.1,100.0,73.6,0.0,77.8,0.0,92.0,33.0,86.4,Extreme,Earthquake,Check appetite,,0,0
+98563,,Grays Harbor County,Olympic Peninsula & Coast,7604,3246,3599,2416,74.4,84634,349200,48.5,45.1,2.9,64.1,94.9,100.0,61.4,0.0,79.6,60.2,87.2,45.1,80.9,High,Earthquake,Construction and deductible review,,2,0
+98564,,Lewis County,Southwest Washington,3382,1412,1769,1114,78.9,60147,323500,42.5,45.5,2.3,76.9,91.3,100.0,92.1,0.0,98.9,100.0,98.7,54.0,93.1,High,Combined score,Construction and deductible review,,4,2
+98565,,Lewis County,Southwest Washington,568,189,189,161,85.2,73750,298900,31.9,39.7,0.0,69.8,92.4,100.0,77.5,0.0,76.9,0.0,76.4,39.5,84.0,High,Combined score,Construction and deductible review,,0,0
+98566,,Grays Harbor County,Olympic Peninsula & Coast,299,106,117,101,95.3,58269,137100,38.4,70.8,0.0,83.0,92.6,100.0,64.8,0.0,68.7,39.5,96.7,41.2,80.9,Moderate,,No change,,0,0
+98568,,Grays Harbor County,Olympic Peninsula & Coast,3050,1198,1304,1006,84.0,84531,426200,47.1,31.6,3.8,82.3,91.4,85.7,73.2,0.0,94.2,100.0,98.9,49.1,86.1,High,Combined score,Construction and deductible review,,2,0
+98569,,Grays Harbor County,Olympic Peninsula & Coast,7489,3921,6045,3254,83.0,58378,380700,63.7,58.2,3.2,53.6,99.4,100.0,75.2,0.0,89.8,98.8,72.8,61.6,87.3,Extreme,Earthquake,Check appetite,,3,2
+98570,,Lewis County,Southwest Washington,5319,1927,2054,1396,72.4,95795,428200,42.1,34.8,4.5,80.7,88.7,17.8,82.4,0.0,90.6,100.0,90.7,42.0,86.9,High,Combined score,Construction and deductible review,,2,2
+98571,,Grays Harbor County,Olympic Peninsula & Coast,48,21,398,0,0.0,,,,0.0,0.0,100.0,97.1,100.0,73.6,0.0,77.8,0.0,92.0,33.0,86.4,Extreme,Earthquake,Check appetite,,1,0
+98572,,Lewis County,Southwest Washington,834,291,326,225,77.3,64013,288500,37.5,39.9,0.0,81.8,90.1,100.0,80.6,0.0,97.7,100.0,98.6,40.2,88.4,High,Combined score,Construction and deductible review,,1,0
+98575,,Grays Harbor County,Olympic Peninsula & Coast,113,48,142,44,91.7,68125,,65.0,79.2,0.0,58.3,95.2,100.0,66.3,0.0,82.9,100.0,99.2,49.2,84.3,High,Earthquake,Construction and deductible review,,0,0
+98576,,Thurston County,South Sound,4985,1676,1821,1474,87.9,104896,446900,39.0,34.8,0.0,85.2,89.2,92.5,77.6,0.0,69.8,35.3,96.6,36.9,83.9,High,Combined score,Construction and deductible review,,0,0
+98577,,Pacific County,Olympic Peninsula & Coast,7503,3170,3394,2688,84.8,63780,276500,47.1,47.3,8.4,65.6,94.7,100.0,70.6,0.0,92.3,91.9,96.5,48.3,86.2,High,Earthquake,Construction and deductible review,,3,2
+98579,,Thurston County,South Sound,14048,5023,5234,4029,80.2,99411,463400,41.6,34.7,2.0,80.1,94.4,81.4,71.9,0.0,91.8,88.7,97.7,44.8,86.6,High,Combined score,Construction and deductible review,,7,6
+98580,,Pierce County,South Sound,11410,4475,4770,3959,88.5,104684,542800,45.2,37.5,4.1,86.1,92.0,86.2,64.2,0.0,70.4,47.9,72.3,48.3,78.1,Moderate,,No change,Yes,5,1
+98581,,Cowlitz County,Southwest Washington,419,251,251,240,95.6,43009,232500,72.1,78.1,4.8,50.6,85.4,0.0,78.4,0.0,95.8,100.0,93.7,45.9,84.8,High,Combined score,Construction and deductible review,,2,0
+98582,,Lewis County,Southwest Washington,438,229,272,229,100.0,89387,346100,58.8,35.8,17.5,56.8,88.4,0.0,79.0,0.0,86.1,100.0,81.8,32.9,84.2,High,Combined score,Construction and deductible review,,0,1
+98583,,Grays Harbor County,Olympic Peninsula & Coast,79,25,25,11,44.0,62750,,35.5,20.0,0.0,92.0,95.4,100.0,63.2,0.0,89.2,100.0,94.6,46.9,83.4,High,Earthquake,Construction and deductible review,,0,0
+98584,,Mason County,South Sound,40606,14870,17568,11866,79.8,78610,393000,41.3,39.9,4.3,70.6,94.6,97.9,64.7,0.0,67.8,43.9,91.1,56.2,81.1,High,Earthquake,Construction and deductible review,,18,9
+98585,,Lewis County,Southwest Washington,465,234,258,222,94.9,74167,411700,52.8,67.1,5.1,94.9,90.6,76.5,90.6,0.0,97.4,100.0,97.4,52.7,92.0,High,Combined score,Construction and deductible review,,0,1
+98586,,Pacific County,Olympic Peninsula & Coast,1801,769,889,466,60.6,50893,261000,50.8,32.2,15.5,54.2,90.9,100.0,63.1,0.0,44.1,11.3,85.5,29.9,76.0,Moderate,,No change,,1,0
+98587,,Grays Harbor County,Olympic Peninsula & Coast,1072,365,401,288,78.9,51458,112300,36.6,47.1,7.9,63.8,90.9,100.0,63.9,0.0,59.4,0.0,95.1,36.0,78.7,Moderate,,No change,,0,0
+98588,,Mason County,South Sound,2114,873,1550,796,91.2,61975,336300,52.4,45.2,6.1,78.5,93.7,100.0,75.3,0.0,75.8,41.1,99.1,52.6,86.0,High,Combined score,Construction and deductible review,,0,1
+98589,,Thurston County,South Sound,7010,2956,3093,2430,82.2,83855,438700,46.8,35.7,2.6,76.4,93.4,99.8,82.0,0.0,93.3,95.1,99.1,43.9,90.0,High,Combined score,Construction and deductible review,,4,4
+98590,,Pacific County,Olympic Peninsula & Coast,509,221,279,171,77.4,110706,550200,50.7,21.3,2.7,92.8,91.0,100.0,69.2,0.0,51.6,0.0,95.7,30.7,79.9,Moderate,,No change,,0,0
+98591,,Lewis County,Southwest Washington,3965,1470,1591,1264,86.0,78952,471100,48.6,48.6,1.3,81.1,90.6,72.2,84.0,0.0,91.6,83.5,89.7,43.5,88.3,High,Combined score,Construction and deductible review,,0,0
+98592,,Mason County,South Sound,2059,922,1118,768,83.3,138370,558400,64.7,64.6,0.5,93.3,97.0,100.0,80.8,0.0,88.8,100.0,99.2,66.9,90.7,Extreme,Earthquake,Check appetite,,1,0
+98593,,Lewis County,Southwest Washington,1541,612,630,567,92.6,84244,343800,48.4,37.9,7.0,71.1,90.6,100.0,77.8,0.0,98.3,100.0,94.7,38.6,87.3,High,Combined score,Construction and deductible review,,0,1
+98595,,Grays Harbor County,Olympic Peninsula & Coast,2698,1328,2141,837,63.0,66579,260400,54.7,44.4,5.9,47.7,98.9,100.0,65.6,0.0,47.5,0.0,63.0,41.2,78.5,Extreme,Earthquake,Check appetite,,0,2
+98596,,Lewis County,Southwest Washington,6950,2405,2520,2065,85.9,80188,415600,39.2,39.1,2.2,82.2,91.7,100.0,75.1,0.0,86.7,60.3,82.0,35.0,84.4,High,Combined score,Construction and deductible review,,0,1
+98597,,Thurston County,South Sound,26669,9715,10384,7601,78.2,92219,447600,36.7,25.8,3.6,77.1,88.4,45.6,60.0,0.0,56.9,3.4,86.0,36.3,75.1,Moderate,,No change,,11,9
+98601,,Clark County,Southwest Washington,2585,949,1117,817,86.1,106776,515000,44.4,39.0,4.5,88.2,79.1,0.0,89.4,0.0,80.9,71.6,95.4,46.7,84.5,High,Combined score,Construction and deductible review,,0,1
+98602,,Klickitat County,Southwest Washington,320,159,217,159,100.0,53617,,61.2,35.8,27.7,72.3,84.2,0.0,99.8,100.0,97.7,100.0,96.7,94.1,92.3,Extreme,Wildfire,Check appetite,,0,0
+98603,,Cowlitz County,Southwest Washington,1267,395,615,288,72.9,78281,464500,41.3,48.6,0.3,65.6,78.6,0.0,89.2,0.0,85.3,100.0,96.8,56.2,84.8,High,Combined score,Construction and deductible review,,1,1
+98604,,Clark County,Southwest Washington,38839,13396,13810,11035,82.4,112448,589800,39.6,33.3,3.4,79.7,79.8,0.0,54.3,0.0,51.1,13.7,45.0,39.3,64.5,Low,,No change,Yes,7,9
+98605,,Skamania County,Southwest Washington,1117,491,527,349,71.1,72917,421700,46.3,35.8,3.7,65.2,75.6,0.0,96.6,87.6,75.5,2.9,88.9,65.5,84.3,Extreme,Wildfire,Check appetite,,0,0
+98606,,Clark County,Southwest Washington,10233,3593,3711,3198,89.0,115151,735500,46.2,45.0,2.4,87.1,80.1,0.0,63.9,0.0,53.5,5.0,62.9,39.3,70.0,Low,,No change,Yes,4,3
+98607,,Clark County,Southwest Washington,35867,12262,12947,9656,78.7,128318,702100,41.0,28.1,2.6,76.5,76.7,0.0,57.9,0.0,52.5,22.5,65.0,41.7,66.5,Low,,No change,Yes,8,4
+98610,,Skamania County,Southwest Washington,2832,1255,1486,968,77.1,72773,501600,53.3,47.9,3.1,67.6,74.7,0.3,88.3,2.8,69.8,13.8,80.0,66.9,79.5,Moderate,,No change,,0,2
+98611,,Cowlitz County,Southwest Washington,9302,3539,3723,2967,83.8,86322,425700,43.7,43.1,2.1,77.2,86.7,48.1,78.1,0.0,91.7,80.8,87.2,48.7,84.2,High,Combined score,Construction and deductible review,,5,1
+98612,,Wahkiakum County,Southwest Washington,3366,1519,1581,1241,81.7,59583,429600,53.5,56.9,4.7,64.1,92.3,100.0,78.4,0.0,95.9,100.0,98.5,41.8,88.4,High,Combined score,Construction and deductible review,,2,4
+98613,,Klickitat County,Southwest Washington,458,232,257,198,85.3,95000,392900,54.8,41.4,0.4,87.5,82.8,0.0,99.7,100.0,96.4,100.0,96.3,91.9,91.4,Extreme,Wildfire,Check appetite,,0,0
+98614,,Pacific County,Olympic Peninsula & Coast,571,241,364,236,97.9,94219,337300,50.9,38.6,0.0,67.6,91.0,100.0,77.7,0.0,97.8,100.0,98.5,54.0,87.8,High,Combined score,Construction and deductible review,,1,0
+98616,,Skamania County,Southwest Washington,192,119,439,119,100.0,,,66.0,77.3,5.0,57.1,81.5,14.5,90.7,14.5,87.0,100.0,97.1,58.0,86.8,High,Combined score,Construction and deductible review,,0,0
+98617,,Klickitat County,Southwest Washington,1380,625,625,495,79.2,71130,377900,42.5,45.4,3.0,74.6,84.3,0.0,99.8,100.0,97.8,100.0,97.0,92.5,92.3,Extreme,Wildfire,Check appetite,,0,0
+98619,,Klickitat County,Southwest Washington,527,244,271,182,74.6,76667,355000,52.7,41.4,0.4,83.2,81.6,0.0,99.7,100.0,88.0,71.7,96.3,86.0,90.0,Extreme,Wildfire,Check appetite,,0,0
+98620,,Klickitat County,Southwest Washington,7936,3336,3697,2312,69.3,60500,280500,44.3,43.2,8.1,56.1,79.5,0.0,99.4,100.0,93.4,98.5,90.8,91.7,89.0,Extreme,Wildfire,Check appetite,,5,2
+98621,,Pacific County,Olympic Peninsula & Coast,195,98,98,87,88.8,91250,,57.8,57.1,0.0,74.5,91.9,100.0,78.2,0.0,96.6,100.0,98.5,46.3,88.2,High,Combined score,Construction and deductible review,,0,0
+98623,,Klickitat County,Southwest Washington,55,26,26,26,100.0,,,,0.0,0.0,100.0,84.1,0.0,99.9,100.0,97.6,100.0,96.5,95.5,92.2,Extreme,Wildfire,Check appetite,,0,1
+98624,,Pacific County,Olympic Peninsula & Coast,1555,580,812,364,62.8,83214,364100,49.1,41.6,1.9,71.7,90.0,34.7,62.9,0.0,37.8,14.9,75.9,27.8,73.9,Low,,No change,,3,2
+98625,,Cowlitz County,Southwest Washington,7655,2915,3156,2343,80.4,116435,513200,48.8,40.9,2.4,74.9,85.2,38.2,82.0,0.0,74.2,34.6,90.7,48.8,83.5,High,Combined score,Construction and deductible review,,6,5
+98626,,Cowlitz County,Southwest Washington,26892,10342,10766,7089,68.5,75528,368900,41.5,33.0,3.4,69.7,88.0,28.2,60.3,0.0,90.6,89.1,64.0,49.3,76.2,Moderate,,No change,,21,6
+98628,,Klickitat County,Southwest Washington,577,195,222,134,68.7,63438,204800,36.1,46.7,0.0,76.9,79.8,0.0,99.5,100.0,93.6,100.0,95.0,90.8,89.6,Extreme,Wildfire,Check appetite,,1,0
+98629,,Clark County,Southwest Washington,9076,3164,3571,2703,85.4,106779,611200,40.5,34.5,4.9,82.3,82.6,0.0,79.9,0.0,83.5,64.9,89.4,51.6,82.4,High,Combined score,Construction and deductible review,Yes,0,1
+98631,,Pacific County,Olympic Peninsula & Coast,3759,1869,3251,1432,76.6,71705,409400,58.9,52.1,5.5,53.0,93.9,100.0,65.2,0.0,43.4,0.0,39.0,27.0,73.3,Moderate,,No change,,4,2
+98632,,Cowlitz County,Southwest Washington,50635,20613,21781,12536,60.8,66305,379200,40.3,34.5,9.8,57.6,88.2,43.3,50.0,0.0,49.1,17.3,35.2,43.8,65.6,Low,,No change,,21,16
+98635,,Klickitat County,Southwest Washington,1721,763,811,582,76.3,61448,491900,53.3,54.1,1.0,75.9,84.3,0.0,99.8,100.0,97.8,100.0,97.0,92.6,92.3,Extreme,Wildfire,Check appetite,,1,0
+98638,,Pacific County,Olympic Peninsula & Coast,1443,611,773,525,85.9,63664,375000,41.0,51.1,2.6,75.3,91.3,100.0,77.8,0.0,97.4,100.0,98.5,51.7,87.9,High,Combined score,Construction and deductible review,,0,1
+98639,,Skamania County,Southwest Washington,1112,490,542,307,62.7,100417,445900,44.1,32.2,5.7,68.4,80.9,0.0,88.8,0.0,97.1,100.0,94.8,74.4,86.7,High,Combined score,Construction and deductible review,,0,0
+98640,,Pacific County,Olympic Peninsula & Coast,5386,2756,4878,2407,87.3,65735,355400,63.1,60.6,1.3,60.8,91.0,100.0,62.8,0.0,39.9,0.0,34.6,24.7,70.4,Moderate,,No change,,1,0
+98641,,Pacific County,Olympic Peninsula & Coast,313,127,173,127,100.0,86853,353100,60.4,73.2,6.3,85.8,91.6,100.0,70.1,0.0,63.6,0.0,56.0,26.9,77.7,Moderate,,No change,,0,0
+98642,,Clark County,Southwest Washington,26816,9526,9951,8014,84.1,120822,652400,40.3,34.5,2.1,76.7,85.7,12.1,59.7,0.0,39.2,0.0,67.0,38.6,70.1,Low,,No change,Yes,9,2
+98643,,Wahkiakum County,Southwest Washington,571,221,282,188,85.1,,237100,36.6,45.2,0.0,96.8,92.3,100.0,78.4,0.0,95.9,100.0,98.5,41.8,88.4,High,Combined score,Construction and deductible review,,1,0
+98644,,Pacific County,Olympic Peninsula & Coast,505,346,828,290,83.8,48333,285700,72.3,82.4,8.1,42.8,92.4,58.8,63.7,0.0,34.2,0.0,69.7,25.1,74.3,Moderate,,No change,,0,0
+98645,,Cowlitz County,Southwest Washington,2216,876,925,838,95.7,101429,509500,52.0,55.6,1.5,85.2,85.1,49.3,77.0,0.0,85.6,53.7,83.9,45.5,82.2,High,Combined score,Construction and deductible review,,0,0
+98647,,Wahkiakum County,Southwest Washington,352,151,178,139,92.1,,259200,62.4,52.3,7.9,68.9,92.3,100.0,78.4,0.0,95.9,100.0,98.5,41.8,88.4,High,Combined score,Construction and deductible review,,0,0
+98648,,Skamania County,Southwest Washington,3477,1325,1509,1061,80.1,96696,555500,49.0,45.9,5.1,75.4,79.7,0.0,87.5,11.4,89.2,85.6,91.8,67.5,84.6,High,Combined score,Construction and deductible review,,0,0
+98649,,Cowlitz County,Southwest Washington,929,368,422,297,80.7,73750,393800,46.8,48.9,4.9,78.8,79.3,0.0,67.8,0.0,82.2,100.0,94.4,49.9,77.1,Moderate,,No change,,1,1
+98650,,Klickitat County,Southwest Washington,1188,508,654,431,84.8,76607,730300,47.4,38.0,1.2,81.7,84.1,0.0,99.9,100.0,97.6,100.0,96.5,95.5,92.2,Extreme,Wildfire,Check appetite,,0,0
+98651,,Skamania County,Southwest Washington,910,422,451,369,87.4,90000,730700,58.3,53.1,1.9,82.2,75.5,0.0,98.5,100.0,77.5,0.0,91.8,63.0,85.4,Extreme,Wildfire,Check appetite,,0,0
+98660,,Clark County,Southwest Washington,13212,6853,7270,2616,38.2,67344,469600,41.1,30.2,18.6,37.5,93.3,65.2,12.4,0.0,22.0,0.0,23.9,35.7,50.9,Moderate,,No change,,1,5
+98661,,Clark County,Southwest Washington,50743,21123,22302,9026,42.7,76913,451500,35.7,25.5,6.9,55.8,86.8,30.9,36.3,0.0,26.4,0.0,31.4,41.7,57.5,Low,,No change,,13,16
+98662,,Clark County,Southwest Washington,37723,14086,14748,9013,64.0,94303,453200,38.3,32.9,6.9,63.1,83.8,12.5,37.0,0.0,37.1,0.0,23.9,41.9,56.8,Low,,No change,,16,15
+98663,,Clark County,Southwest Washington,16202,6690,6951,3963,59.2,86018,450300,38.7,28.1,4.9,62.4,85.3,21.5,30.8,0.0,17.5,0.0,35.7,34.0,54.5,Low,,No change,,0,1
+98664,,Clark County,Southwest Washington,23845,9621,9961,6035,62.7,85369,467200,40.0,35.0,4.0,59.4,83.0,36.0,31.5,0.0,35.4,0.0,31.8,41.5,55.1,Low,,No change,,7,4
+98665,,Clark County,Southwest Washington,28910,11639,12026,6755,58.0,88559,476200,38.3,28.3,4.8,63.9,85.2,14.2,38.7,0.0,26.2,0.0,35.3,39.4,58.0,Low,,No change,,0,1
+98670,,Klickitat County,Southwest Washington,68,33,44,31,93.9,,483300,54.8,66.7,0.0,48.5,84.3,0.0,99.8,100.0,97.8,100.0,97.0,92.5,92.3,Extreme,Wildfire,Check appetite,,0,0
+98671,,Skamania County,Southwest Washington,24871,8898,9261,6805,76.5,111545,586100,40.8,32.2,3.6,77.9,74.0,0.0,55.8,0.0,80.7,71.8,66.5,41.0,67.5,Low,,No change,Yes,4,9
+98672,,Klickitat County,Southwest Washington,7390,3062,3357,2545,83.1,97622,669200,46.3,36.7,3.8,69.1,79.0,0.0,91.7,50.5,77.0,48.1,81.9,84.8,83.5,Extreme,Wildfire,Check appetite,,3,0
+98673,,Klickitat County,Southwest Washington,411,153,166,103,67.3,42188,162000,49.4,44.4,21.6,67.3,84.3,0.0,99.8,100.0,97.8,100.0,97.0,92.5,92.3,Extreme,Wildfire,Check appetite,,0,0
+98674,,Cowlitz County,Southwest Washington,17525,5844,5972,4280,73.2,94245,538000,34.8,35.4,3.4,79.7,86.7,24.8,77.8,0.0,87.6,92.9,77.6,55.7,82.8,High,Combined score,Construction and deductible review,,7,6
+98675,,Clark County,Southwest Washington,7305,2117,2225,1801,85.1,99877,560800,32.8,32.7,3.0,87.6,77.8,0.0,88.8,0.0,78.2,66.6,94.5,42.6,83.4,High,Combined score,Construction and deductible review,,1,1
+98682,,Clark County,Southwest Washington,68305,23886,24520,16816,70.4,99918,462700,35.7,26.4,3.2,73.0,76.4,0.0,20.7,0.0,28.1,0.0,17.3,37.3,46.2,Low,,No change,,22,14
+98683,,Clark County,Southwest Washington,32107,13821,14683,7862,56.9,87659,543100,42.3,35.5,5.7,55.0,80.0,0.0,20.0,0.0,30.3,0.0,22.8,43.0,48.3,Low,,No change,,5,5
+98684,,Clark County,Southwest Washington,37298,14482,14957,7732,53.4,90620,459200,38.0,26.2,4.4,62.5,78.3,0.0,37.1,0.0,23.5,0.0,19.5,42.2,52.5,Low,,No change,,7,6
+98685,,Clark County,Southwest Washington,30607,11721,11846,9942,84.8,130972,599200,44.4,33.6,2.0,74.9,85.9,0.3,44.8,0.0,55.0,24.3,57.6,44.4,65.6,Low,,No change,Yes,3,6
+98686,,Clark County,Southwest Washington,21243,8114,8526,6241,76.9,107801,596700,41.9,30.6,3.3,69.2,83.3,0.0,43.3,0.0,38.9,0.0,45.6,38.3,61.1,Low,,No change,Yes,1,5
+98801,,Chelan County,Central Washington,45426,17723,18408,10419,58.8,81488,461200,37.0,32.4,7.2,64.9,75.7,0.0,76.1,34.6,87.3,77.4,47.1,73.8,74.1,High,Wildfire,Construction and deductible review,,5,5
+98802,,Douglas County,Central Washington,33539,11932,12756,8318,69.7,87744,450300,38.4,36.6,4.8,70.5,80.1,0.0,74.0,14.0,91.7,85.1,43.4,80.0,75.5,Moderate,,No change,,5,5
+98811,,Chelan County,Central Washington,6,6,6,6,100.0,,,,100.0,0.0,0.0,78.3,0.0,99.7,100.0,99.4,100.0,99.5,76.4,90.0,Extreme,Wildfire,Check appetite,,0,0
+98812,,Okanogan County,Central Washington,4834,1580,1841,869,55.0,59297,354500,35.4,27.0,6.2,62.5,85.4,0.0,99.3,100.0,99.5,100.0,94.7,84.8,92.6,Extreme,Wildfire,Check appetite,,0,1
+98813,,Douglas County,Central Washington,2826,756,840,409,54.1,49969,177000,29.4,20.8,3.2,64.6,80.2,0.0,98.8,100.0,96.2,100.0,89.5,76.3,89.2,Extreme,Wildfire,Check appetite,,0,0
+98814,,Okanogan County,Central Washington,473,221,275,221,100.0,98715,582700,61.1,55.2,0.0,100.0,79.5,0.0,99.8,100.0,99.5,100.0,98.4,89.8,90.5,Extreme,Wildfire,Check appetite,,0,0
+98815,,Chelan County,Central Washington,7830,2859,3036,2277,79.6,88108,554300,42.5,32.1,4.2,75.8,76.3,0.0,97.4,44.8,91.9,100.0,72.2,75.7,84.8,High,Wildfire,Construction and deductible review,,0,0
+98816,,Chelan County,Central Washington,7752,3198,5469,2094,65.5,82577,499200,48.8,46.7,2.7,64.6,76.1,0.0,99.1,100.0,87.9,77.8,91.8,69.5,86.9,Extreme,Wildfire,Check appetite,,0,1
+98817,,Chelan County,Central Washington,233,77,77,30,39.0,,,24.8,14.3,0.0,100.0,77.0,0.0,99.4,100.0,96.8,100.0,98.0,76.8,88.9,Extreme,Wildfire,Check appetite,,0,0
+98819,,Okanogan County,Central Washington,182,102,209,88,86.3,63000,219400,64.8,65.7,0.0,48.0,75.6,0.0,99.7,100.0,87.4,100.0,96.6,75.3,87.3,Extreme,Wildfire,Check appetite,,0,0
+98821,,Chelan County,Central Washington,1019,244,244,11,4.5,134233,,38.2,4.5,0.0,100.0,72.6,0.0,99.4,100.0,85.2,100.0,95.5,75.0,85.5,Extreme,Wildfire,Check appetite,,0,0
+98822,,Chelan County,Central Washington,2394,925,1087,771,83.4,86103,383600,43.7,43.9,4.4,73.5,78.3,0.0,99.7,100.0,99.4,100.0,99.5,76.4,90.0,Extreme,Wildfire,Check appetite,,0,1
+98823,,Grant County,Central Washington,12188,4379,4683,2948,67.3,73074,267300,32.0,25.7,2.2,71.4,76.6,0.0,95.6,34.7,63.3,6.5,74.6,65.8,81.7,High,Wildfire,Construction and deductible review,,3,0
+98824,,Grant County,Central Washington,147,49,53,27,55.1,44028,176800,21.4,24.5,0.0,73.5,82.7,0.0,96.8,100.0,89.3,100.0,90.5,74.3,89.1,Extreme,Wildfire,Check appetite,,0,0
+98826,,Chelan County,Central Washington,7605,3577,5954,2567,71.8,87646,720000,55.1,43.6,7.9,61.4,81.4,0.0,99.7,100.0,97.1,100.0,97.3,83.1,91.0,Extreme,Wildfire,Check appetite,,0,0
+98827,,Okanogan County,Central Washington,289,179,276,77,43.0,43309,,60.4,39.7,0.0,39.7,74.3,0.0,98.5,100.0,96.9,100.0,96.7,79.0,87.3,Extreme,Wildfire,Check appetite,,0,0
+98828,,Chelan County,Central Washington,1898,813,910,721,88.7,70197,437600,34.9,39.4,1.6,76.0,78.0,0.0,100.0,100.0,97.8,100.0,97.0,81.9,89.6,Extreme,Wildfire,Check appetite,,0,0
+98829,,Okanogan County,Central Washington,361,188,208,146,77.7,36875,392000,57.6,54.8,9.0,59.6,86.0,0.0,99.2,100.0,97.9,100.0,89.3,80.2,92.1,Extreme,Wildfire,Check appetite,,0,0
+98830,,Douglas County,Central Washington,557,244,279,185,75.8,83125,262500,42.8,41.4,8.6,70.9,78.6,0.0,98.6,100.0,92.1,100.0,84.7,74.3,87.6,Extreme,Wildfire,Check appetite,,0,0
+98831,,Chelan County,Central Washington,3953,1277,2220,934,73.1,82650,659500,42.5,42.7,1.5,71.8,80.0,0.0,99.4,100.0,93.0,100.0,96.1,84.8,89.7,Extreme,Wildfire,Check appetite,,1,0
+98832,,Grant County,Central Washington,87,55,65,40,72.7,31964,309100,68.5,78.2,0.0,87.3,78.7,0.0,98.7,99.7,82.7,99.7,91.8,77.7,87.4,Extreme,Wildfire,Check appetite,,0,0
+98833,,Okanogan County,Central Washington,245,115,393,115,100.0,117639,609900,61.0,62.6,0.0,91.3,70.7,0.0,99.9,100.0,98.7,100.0,99.4,85.6,86.6,Extreme,Wildfire,Check appetite,,0,0
+98834,,Okanogan County,Central Washington,178,82,92,72,87.8,71667,590000,61.5,64.6,11.0,72.0,79.7,0.0,99.8,100.0,99.5,100.0,98.4,89.8,90.6,Extreme,Wildfire,Check appetite,,0,0
+98836,,Chelan County,Central Washington,429,153,153,153,100.0,,380100,42.8,71.2,5.9,94.1,78.4,0.0,96.3,12.5,95.9,100.0,58.6,76.1,84.4,High,Combined score,Construction and deductible review,,0,0
+98837,,Grant County,Central Washington,49455,18264,19260,12157,66.6,74586,315000,34.4,28.1,6.1,69.7,71.8,0.0,84.3,10.7,43.1,7.2,50.9,65.5,71.2,Moderate,,No change,,17,4
+98840,,Okanogan County,Central Washington,4892,1950,2235,1336,68.5,57342,261600,44.1,40.8,1.5,76.1,82.7,0.0,99.2,100.0,93.7,97.1,90.4,79.0,90.3,Extreme,Wildfire,Check appetite,,0,0
+98841,,Okanogan County,Central Washington,9737,3769,4311,2667,70.8,71809,274000,42.5,38.4,5.5,66.1,82.0,0.0,98.4,100.0,78.8,17.6,64.8,76.8,85.7,Extreme,Wildfire,Check appetite,,0,0
+98843,,Douglas County,Central Washington,2510,901,1569,571,63.4,69425,750900,41.5,41.5,2.4,80.0,80.6,0.0,98.8,100.0,99.3,100.0,91.1,75.2,89.9,Extreme,Wildfire,Check appetite,,0,0
+98844,,Okanogan County,Central Washington,4873,2247,3015,1697,75.5,44201,293800,48.0,40.2,4.4,74.8,59.9,0.0,99.1,100.0,87.3,100.0,94.4,73.5,79.8,Extreme,Wildfire,Check appetite,,0,1
+98845,,Douglas County,Central Washington,115,52,54,32,61.5,56250,300000,53.3,44.2,5.8,67.3,76.6,0.0,98.8,100.0,82.5,100.0,86.3,70.9,85.9,Extreme,Wildfire,Check appetite,,0,0
+98846,,Okanogan County,Central Washington,1376,483,636,405,83.9,84464,338200,40.2,21.9,5.2,72.3,83.2,0.0,99.6,100.0,97.7,100.0,96.3,84.9,91.7,Extreme,Wildfire,Check appetite,,0,0
+98847,,Chelan County,Central Washington,1641,705,1072,425,60.3,68814,380100,39.6,47.5,1.0,64.3,79.2,0.0,99.8,100.0,97.0,100.0,98.2,84.7,90.1,Extreme,Wildfire,Check appetite,,0,0
+98848,,Grant County,Central Washington,12854,4024,5733,2724,67.7,87714,357500,33.5,33.4,2.6,74.3,87.1,53.6,77.6,44.5,70.6,38.3,41.9,75.8,77.6,High,Wildfire,Construction and deductible review,,1,1
+98849,,Okanogan County,Central Washington,1096,583,649,447,76.7,63875,277200,59.7,50.3,2.2,68.4,74.2,0.0,99.5,100.0,91.6,100.0,96.0,76.1,87.0,Extreme,Wildfire,Check appetite,,0,1
+98850,,Douglas County,Central Washington,2032,684,711,561,82.0,83125,374700,37.1,27.2,1.2,78.7,84.6,0.0,98.3,100.0,98.5,100.0,85.5,87.9,90.9,Extreme,Wildfire,Check appetite,,0,1
+98851,,Grant County,Central Washington,4437,1604,2003,1067,66.5,63333,242800,35.9,43.7,9.3,63.5,76.1,0.0,97.7,100.0,86.2,100.0,81.8,72.8,85.2,Extreme,Wildfire,Check appetite,,5,1
+98852,,Chelan County,Central Washington,44,23,132,21,91.3,47750,537500,65.6,73.9,0.0,91.3,78.3,0.0,99.7,100.0,99.4,100.0,99.5,76.4,90.0,Extreme,Wildfire,Check appetite,,0,0
+98853,,Grant County,Central Washington,6,2,16,2,100.0,,,57.5,100.0,0.0,100.0,80.3,0.0,98.7,100.0,80.7,100.0,95.5,81.3,88.3,Extreme,Wildfire,Check appetite,,0,0
+98855,,Okanogan County,Central Washington,5857,2328,2963,1759,75.6,60179,257800,42.2,36.8,4.4,75.0,71.8,0.0,99.4,100.0,93.1,100.0,95.5,76.1,86.0,Extreme,Wildfire,Check appetite,,0,0
+98856,,Okanogan County,Central Washington,2920,1316,1646,992,75.4,70089,484600,45.4,39.9,0.0,67.7,78.5,0.0,99.8,100.0,99.4,100.0,98.5,89.3,90.0,Extreme,Wildfire,Check appetite,,0,0
+98857,,Grant County,Central Washington,4062,1315,1342,926,70.4,61860,213300,36.4,37.7,5.9,77.1,81.9,0.0,94.5,1.6,21.9,1.6,68.7,64.6,79.0,Moderate,,No change,,2,2
+98858,,Douglas County,Central Washington,1783,746,875,573,76.8,78669,259300,52.4,36.7,3.4,75.2,78.4,0.0,98.8,100.0,90.2,100.0,88.2,73.0,87.7,Extreme,Wildfire,Check appetite,,0,0
+98859,,Okanogan County,Central Washington,435,152,247,115,75.7,98108,,28.1,47.4,0.0,98.0,59.7,0.0,99.8,100.0,88.3,100.0,98.0,75.9,80.4,Extreme,Wildfire,Check appetite,,0,0
+98860,,Grant County,Central Washington,277,124,141,91,73.4,62500,185100,41.1,52.4,0.8,69.4,79.6,0.0,98.7,100.0,80.6,100.0,93.7,80.9,87.8,Extreme,Wildfire,Check appetite,,3,0
+98862,,Okanogan County,Central Washington,2995,1380,2150,1067,77.3,71080,720200,55.5,48.4,3.5,78.3,71.6,0.0,99.9,100.0,98.8,100.0,99.3,86.0,87.0,Extreme,Wildfire,Check appetite,,0,1
+98901,,Yakima County,Central Washington,31366,11246,12202,5620,50.0,57392,279600,32.8,26.9,9.2,60.8,85.0,4.9,57.4,45.6,52.5,34.1,39.7,66.8,67.6,High,Wildfire,Construction and deductible review,,17,4
+98902,,Yakima County,Central Washington,46492,17189,17937,8749,50.9,63092,263200,34.0,31.8,7.1,62.2,84.8,34.4,37.4,4.4,41.5,10.9,18.4,64.4,57.2,Low,,No change,,7,15
+98903,,Yakima County,Central Washington,19445,6519,6765,4832,74.1,75343,287400,36.5,31.8,3.8,71.1,90.8,85.4,90.6,61.7,64.5,24.5,41.4,63.1,83.2,Extreme,Wildfire,Check appetite,,8,5
+98908,,Yakima County,Central Washington,38060,14796,15379,10191,68.9,84197,383900,39.4,38.3,3.8,66.0,79.9,7.5,88.1,39.3,49.4,14.2,63.9,60.7,78.1,High,Wildfire,Construction and deductible review,,22,7
+98921,,Yakima County,Central Washington,124,26,33,0,0.0,,,15.6,0.0,0.0,100.0,79.0,0.0,95.2,0.0,86.9,100.0,95.3,61.5,87.1,High,Combined score,Construction and deductible review,,0,0
+98922,,Kittitas County,Central Washington,7688,3554,5465,3068,86.3,73603,647600,51.3,34.5,2.4,71.3,82.2,0.0,98.9,100.0,71.8,53.3,78.8,68.3,86.7,Extreme,Wildfire,Check appetite,,1,0
+98923,,Yakima County,Central Washington,994,571,571,305,53.4,47776,243600,58.7,37.5,12.6,65.0,91.7,99.9,99.6,100.0,98.3,100.0,98.6,86.6,95.8,Extreme,Wildfire,Check appetite,,1,0
+98925,,Kittitas County,Central Washington,850,329,738,280,85.1,97250,769400,41.6,32.8,1.8,80.5,87.2,0.0,100.0,100.0,98.4,100.0,99.8,81.9,94.1,Extreme,Wildfire,Check appetite,,0,0
+98926,,Kittitas County,Central Washington,34353,14161,15207,7429,52.5,71137,470300,30.2,25.0,5.0,66.9,87.9,47.0,97.0,71.2,68.9,44.1,50.5,68.7,85.4,Extreme,Wildfire,Check appetite,,2,1
+98930,,Yakima County,Central Washington,15730,4923,5247,2905,59.0,64583,303500,30.5,26.4,3.1,78.0,86.4,0.0,53.1,2.4,44.9,0.0,33.6,65.3,65.3,Low,,No change,,0,3
+98932,,Yakima County,Central Washington,5742,1498,1512,808,53.9,71806,250000,24.2,16.2,4.7,76.8,84.6,0.0,78.8,0.9,90.7,80.1,67.0,65.5,81.4,Moderate,,No change,,1,1
+98933,,Yakima County,Central Washington,1230,385,413,254,66.0,75972,241400,33.6,35.6,1.6,75.1,90.5,98.7,96.2,1.3,97.7,100.0,76.3,86.8,91.8,High,Combined score,Construction and deductible review,,0,0
+98934,,Kittitas County,Central Washington,775,440,477,331,75.2,79063,319900,54.3,20.7,14.5,67.5,83.3,0.0,99.8,100.0,92.5,100.0,98.9,76.4,91.6,Extreme,Wildfire,Check appetite,,1,0
+98935,,Yakima County,Central Washington,4289,1136,1224,741,65.2,61316,225500,27.0,32.6,2.3,75.0,80.8,0.0,92.3,72.0,54.3,4.3,85.7,62.0,82.7,Extreme,Wildfire,Check appetite,,0,0
+98936,,Yakima County,Central Washington,8744,2722,2863,2201,80.9,99280,364700,31.1,19.9,0.9,77.7,85.8,0.0,97.2,100.0,73.9,71.3,94.7,65.4,89.5,Extreme,Wildfire,Check appetite,,1,0
+98937,,Yakima County,Central Washington,4833,1876,2495,1393,74.3,77143,369300,35.3,29.3,2.9,80.7,85.3,20.9,98.8,100.0,92.9,98.8,93.4,71.1,91.6,Extreme,Wildfire,Check appetite,,0,0
+98938,,Yakima County,Central Washington,1591,548,563,356,65.0,46022,219900,36.3,29.7,0.0,76.8,83.6,0.0,81.3,0.0,84.8,65.5,74.0,62.6,82.0,High,Combined score,Construction and deductible review,,0,0
+98939,,Yakima County,Central Washington,116,37,37,16,43.2,,,46.3,51.4,0.0,24.3,90.6,100.0,96.2,0.0,98.0,100.0,76.0,86.9,91.8,High,Combined score,Construction and deductible review,,0,0
+98940,,Kittitas County,Central Washington,858,332,1075,332,100.0,246441,612800,55.0,68.4,0.0,97.0,85.0,0.0,99.4,100.0,77.0,61.1,94.8,74.4,90.2,Extreme,Wildfire,Check appetite,,0,0
+98941,,Kittitas County,Central Washington,1076,494,740,335,67.8,104800,565200,43.8,24.9,2.2,69.0,81.7,0.0,98.6,100.0,43.7,0.0,86.9,63.9,84.3,Extreme,Wildfire,Check appetite,,0,0
+98942,,Yakima County,Central Washington,18871,7247,7560,5374,74.2,84646,382300,36.3,36.9,3.2,76.1,83.5,0.0,97.3,57.1,74.5,38.4,94.2,67.3,88.5,Extreme,Wildfire,Check appetite,,0,0
+98943,,Kittitas County,Central Washington,579,282,306,202,71.6,66750,374300,47.1,36.2,0.0,86.5,75.9,0.0,99.0,100.0,85.7,100.0,57.2,57.3,83.1,Extreme,Wildfire,Check appetite,,1,0
+98944,,Benton County,Tri-Cities & Southeast,22817,6433,6651,3847,59.8,64276,260000,28.7,27.7,6.6,74.5,87.0,20.7,65.7,3.7,58.4,22.4,49.2,65.5,72.9,Low,,No change,,4,5
+98946,,Kittitas County,Central Washington,398,141,161,95,67.4,121875,384500,38.4,22.0,0.0,80.9,71.0,0.0,99.7,100.0,67.6,17.3,90.2,48.0,82.6,Extreme,Wildfire,Check appetite,,0,2
+98947,,Yakima County,Central Washington,3255,1079,1079,767,71.1,75057,243100,32.6,20.2,3.8,83.3,91.7,100.0,99.6,100.0,98.3,100.0,98.6,86.6,95.8,Extreme,Wildfire,Check appetite,,2,1
+98948,,Yakima County,Central Washington,12638,3475,3628,2037,58.6,65759,232200,28.1,30.6,4.0,76.5,92.3,96.6,65.2,3.4,89.4,100.0,17.6,69.2,75.1,Moderate,,No change,,5,3
+98950,,Kittitas County,Central Washington,61,0,34,0,,,,37.0,,,,83.3,0.0,99.8,100.0,92.5,100.0,98.9,76.4,91.6,Extreme,Wildfire,Check appetite,,0,0
+98951,,Yakima County,Central Washington,12581,3546,3737,1933,54.5,63356,230400,30.4,28.5,7.3,69.6,90.5,60.1,89.7,20.7,82.9,56.0,44.7,67.3,84.9,High,Wildfire,Construction and deductible review,,0,0
+98952,,Yakima County,Central Washington,2015,496,580,322,64.9,50417,102300,31.9,40.9,6.7,60.3,87.5,64.6,97.3,35.4,91.4,100.0,84.4,84.1,91.0,High,Wildfire,Construction and deductible review,,0,0
+98953,,Yakima County,Central Washington,7166,2301,2398,1822,79.2,84766,368300,34.2,31.1,0.2,81.7,84.3,0.0,92.4,0.0,89.8,99.9,81.6,61.1,87.4,High,Combined score,Construction and deductible review,,3,1
+99001,,Spokane County,Spokane & Northeast,9440,2804,3010,900,32.1,62518,346200,32.6,17.4,7.8,52.5,64.1,0.0,97.3,100.0,47.6,0.0,20.6,76.9,69.7,Extreme,Wildfire,Check appetite,,1,2
+99003,,Spokane County,Spokane & Northeast,4810,1833,2319,1640,89.5,77129,428200,50.5,51.6,2.3,80.1,36.9,0.0,89.6,0.0,65.1,0.0,70.8,61.5,61.6,Low,,No change,,2,0
+99004,,Spokane County,Spokane & Northeast,22871,8629,9149,4988,57.8,67337,420500,31.0,27.8,5.1,67.9,58.6,0.0,94.0,45.6,36.7,0.3,42.7,62.0,67.2,High,Wildfire,Construction and deductible review,,9,2
+99005,,Spokane County,Spokane & Northeast,10815,3600,3673,3271,90.9,125530,561100,39.6,33.5,2.4,85.3,38.0,0.0,83.3,0.0,60.3,0.0,55.9,57.3,57.9,Low,,No change,Yes,3,2
+99006,,Spokane County,Spokane & Northeast,16177,5595,5760,4654,83.2,72200,419600,41.4,36.9,3.3,76.5,40.8,0.0,90.1,12.0,49.6,16.2,53.8,65.7,60.2,Moderate,,No change,,2,2
+99008,,Lincoln County,Spokane & Northeast,317,150,171,121,80.7,106544,508300,40.2,36.7,0.0,92.0,57.8,0.0,98.5,100.0,74.5,49.5,78.5,64.4,75.8,Extreme,Wildfire,Check appetite,,0,0
+99009,,Spokane County,Spokane & Northeast,4506,1659,1854,1444,87.0,81809,427200,40.6,33.5,1.1,89.8,33.8,0.0,91.5,0.0,58.6,0.0,79.3,66.5,61.0,Low,,No change,,4,1
+99011,,Spokane County,Spokane & Northeast,2931,750,815,0,0.0,69917,,22.6,0.0,0.0,80.8,44.3,0.0,83.6,0.0,9.2,0.0,0.0,38.1,50.1,Low,,No change,,0,0
+99012,,Spokane County,Spokane & Northeast,1167,354,385,278,78.5,88571,333700,37.8,26.3,2.0,86.7,62.4,0.0,89.3,0.0,76.3,0.0,80.9,58.1,75.1,Moderate,,No change,,0,0
+99013,,Stevens County,Spokane & Northeast,1620,528,554,411,77.8,49518,214000,35.3,38.4,5.3,80.9,30.0,0.0,98.2,100.0,49.8,31.1,91.0,63.6,61.9,Extreme,Wildfire,Check appetite,,0,2
+99014,,Spokane County,Spokane & Northeast,17,17,17,17,100.0,,,,0.0,0.0,100.0,39.8,0.0,97.9,100.0,57.5,0.0,60.3,64.3,64.0,Extreme,Wildfire,Check appetite,,0,0
+99016,,Spokane County,Spokane & Northeast,21615,8012,8306,6214,77.6,103472,477400,38.6,26.7,2.0,76.5,46.8,0.0,70.0,0.0,43.2,0.0,27.9,61.1,52.7,Low,,No change,Yes,0,4
+99017,,Whitman County,Tri-Cities & Southeast,230,93,98,84,90.3,58958,121400,40.8,18.3,1.1,64.5,68.3,0.0,94.1,0.0,92.4,100.0,98.7,63.6,82.8,High,Combined score,Construction and deductible review,,0,0
+99018,,Spokane County,Spokane & Northeast,272,115,122,87,75.7,52813,210700,46.7,32.2,5.2,72.2,62.4,0.0,89.3,0.0,76.3,0.0,80.9,58.1,75.1,Moderate,,No change,,1,0
+99019,,Spokane County,Spokane & Northeast,12447,4872,5438,3317,68.1,120053,617800,39.7,35.7,2.3,65.9,38.0,0.0,82.9,0.0,51.4,0.0,52.1,54.5,56.5,Low,,No change,Yes,3,6
+99020,,Spokane County,Spokane & Northeast,16,7,7,7,100.0,,,,100.0,0.0,100.0,16.4,0.0,97.4,100.0,17.9,0.0,43.8,38.2,47.6,Extreme,Wildfire,Check appetite,,0,0
+99021,,Spokane County,Spokane & Northeast,8942,3258,3591,3055,93.8,85489,465400,43.5,36.7,1.9,80.4,30.6,0.0,78.4,0.0,39.6,0.0,62.5,48.2,51.4,Low,,No change,,3,0
+99022,,Spokane County,Spokane & Northeast,8767,3533,3811,2789,78.9,93812,389700,43.5,24.5,10.7,69.7,43.9,0.0,97.4,100.0,49.8,0.0,42.8,63.5,63.1,Extreme,Wildfire,Check appetite,,2,1
+99023,,Spokane County,Spokane & Northeast,800,254,285,254,100.0,114298,735300,36.0,33.5,7.5,88.2,37.5,0.0,91.2,0.0,48.3,0.0,81.5,56.6,61.8,Low,,No change,,0,0
+99025,,Spokane County,Spokane & Northeast,5668,1950,2306,1829,93.8,118712,517100,47.8,38.6,2.4,84.3,49.5,0.0,63.0,0.0,58.5,0.0,50.3,61.1,55.2,Low,,No change,,3,0
+99026,,Spokane County,Spokane & Northeast,9320,3440,3577,3266,94.9,100599,540400,48.5,46.3,2.1,88.5,30.6,0.0,94.7,33.5,55.2,57.9,66.0,58.5,59.0,High,Wildfire,Construction and deductible review,Yes,11,1
+99027,,Spokane County,Spokane & Northeast,5992,2627,2748,2357,89.7,74718,444500,53.4,41.3,3.3,74.8,60.6,0.0,48.1,0.0,65.2,0.0,28.8,66.2,53.5,Low,,No change,,4,1
+99029,,Lincoln County,Spokane & Northeast,2116,662,693,519,78.4,69919,343700,35.9,27.0,6.5,68.1,49.7,0.0,99.0,100.0,62.5,42.5,75.1,57.6,70.8,Extreme,Wildfire,Check appetite,,0,1
+99030,,Spokane County,Spokane & Northeast,919,321,363,306,95.3,86250,362200,42.4,37.4,2.5,85.0,40.5,0.0,90.9,0.0,39.2,0.0,83.7,48.4,62.3,Low,,No change,,0,0
+99031,,Spokane County,Spokane & Northeast,1251,440,450,404,91.8,98182,423500,47.1,35.9,5.5,84.3,53.6,0.0,92.0,30.6,69.9,0.0,78.5,55.5,71.2,High,Wildfire,Construction and deductible review,,0,0
+99032,,Lincoln County,Spokane & Northeast,1018,399,474,317,79.4,61964,205400,43.4,39.3,1.8,86.5,75.1,0.0,98.4,84.7,83.9,77.1,91.5,59.0,85.8,Extreme,Wildfire,Check appetite,,0,0
+99033,,Whitman County,Tri-Cities & Southeast,832,358,420,239,66.8,58750,253300,52.8,41.1,0.8,75.7,66.6,0.0,92.7,0.0,87.6,70.5,93.5,61.9,80.5,Moderate,,No change,,0,1
+99034,,Stevens County,Spokane & Northeast,198,119,119,27,22.7,,,33.8,14.3,0.0,32.8,23.1,0.0,97.1,100.0,52.7,0.0,94.7,65.1,59.1,Extreme,Wildfire,Check appetite,,0,0
+99036,,Spokane County,Spokane & Northeast,1581,657,680,598,91.0,121518,647300,53.8,38.7,0.0,83.3,31.2,0.0,94.0,41.4,33.8,0.0,83.2,43.2,58.6,High,Wildfire,Construction and deductible review,,0,0
+99037,,Spokane County,Spokane & Northeast,16522,5875,6055,3797,64.6,87713,459500,37.1,28.4,2.4,77.8,41.0,0.0,43.5,0.0,24.4,0.0,20.7,50.6,38.2,Low,,No change,,4,3
+99039,,Spokane County,Spokane & Northeast,166,60,60,55,91.7,65909,225000,46.9,20.0,0.0,90.0,62.4,0.0,89.3,0.0,76.3,0.0,80.9,58.1,75.1,Moderate,,No change,,0,0
+99040,,Stevens County,Spokane & Northeast,536,278,297,201,72.3,70200,182100,54.0,39.9,8.6,57.9,21.6,0.0,98.8,100.0,9.8,0.0,95.7,69.8,54.9,Extreme,Wildfire,Check appetite,,0,1
+99101,,Stevens County,Spokane & Northeast,1690,618,731,548,88.7,78750,434800,43.7,43.0,0.0,82.5,29.5,0.0,98.0,100.0,70.3,55.5,98.7,71.4,64.5,Extreme,Wildfire,Check appetite,,0,3
+99102,,Whitman County,Tri-Cities & Southeast,495,218,246,103,47.2,56833,230700,33.4,26.1,0.9,61.0,33.1,0.0,66.9,0.0,46.4,0.0,94.1,48.4,52.4,Low,,No change,,0,0
+99103,,Lincoln County,Spokane & Northeast,556,224,270,168,75.0,53125,230900,42.4,39.7,3.6,65.6,81.7,0.0,99.3,100.0,90.7,100.0,98.3,71.5,90.4,Extreme,Wildfire,Check appetite,,0,0
+99105,,Adams County,Central Washington,41,23,29,23,100.0,51250,46500,60.8,39.1,0.0,95.7,71.4,0.0,96.2,0.0,57.3,0.0,85.8,53.6,80.1,Moderate,,No change,,0,0
+99109,,Stevens County,Spokane & Northeast,4981,2285,2653,1826,79.9,62391,327400,54.1,48.3,4.6,67.8,37.3,0.0,93.5,60.1,76.5,44.8,78.5,70.4,65.0,Extreme,Wildfire,Check appetite,,0,2
+99110,,Stevens County,Spokane & Northeast,1505,573,601,467,81.5,76106,453100,32.4,37.0,0.0,89.2,21.3,0.0,96.8,84.8,26.4,0.0,88.1,61.8,54.9,Extreme,Wildfire,Check appetite,,0,0
+99111,,Whitman County,Tri-Cities & Southeast,4038,1714,1932,1250,72.9,73393,295800,41.8,35.0,3.5,65.3,54.7,0.0,75.2,0.0,82.2,80.2,97.8,46.8,68.9,Low,,No change,,2,0
+99113,,Whitman County,Tri-Cities & Southeast,560,236,267,218,92.4,104643,398000,53.0,39.0,0.8,89.0,50.9,0.0,74.4,0.0,74.6,0.0,96.1,49.0,66.0,Low,,No change,,0,0
+99114,,Stevens County,Spokane & Northeast,13383,5325,6229,3816,71.7,62711,301600,45.2,44.3,8.5,67.6,31.4,0.0,94.5,65.7,64.4,24.0,85.2,75.3,62.2,Extreme,Wildfire,Check appetite,,0,0
+99115,,Douglas County,Central Washington,1369,552,982,385,69.7,62708,247200,50.5,48.2,6.5,73.0,79.0,0.0,98.8,100.0,82.2,100.0,91.8,76.6,87.5,Extreme,Wildfire,Check appetite,,0,1
+99116,,Okanogan County,Central Washington,1786,763,864,513,67.2,65946,238900,39.3,36.8,3.4,49.5,74.0,0.0,98.9,100.0,94.5,100.0,95.6,71.7,86.9,Extreme,Wildfire,Check appetite,,0,1
+99117,,Lincoln County,Spokane & Northeast,556,234,271,199,85.0,63750,265700,44.5,50.0,1.3,83.3,80.6,0.0,99.7,100.0,95.0,100.0,98.8,66.4,90.5,Extreme,Wildfire,Check appetite,,0,0
+99118,,Ferry County,Spokane & Northeast,899,381,507,278,73.0,68875,323800,46.5,48.8,0.8,82.2,42.2,0.0,99.2,100.0,97.7,100.0,99.7,72.6,73.5,Extreme,Wildfire,Check appetite,,0,0
+99119,,Pend Oreille County,Spokane & Northeast,1549,676,1278,601,88.9,95385,360200,54.9,53.7,2.2,78.1,30.7,0.0,89.0,0.0,98.2,100.0,98.8,90.9,64.7,Low,,No change,,0,0
+99121,,Ferry County,Spokane & Northeast,262,91,119,88,96.7,,392000,57.1,52.7,2.2,74.7,42.2,0.0,99.2,100.0,97.7,100.0,99.7,72.6,73.5,Extreme,Wildfire,Check appetite,,0,0
+99122,,Lincoln County,Spokane & Northeast,4046,1666,2217,1366,82.0,82386,331700,46.5,43.9,3.2,76.2,58.1,0.0,94.5,65.4,70.5,63.6,74.4,61.1,73.7,Extreme,Wildfire,Check appetite,,0,1
+99123,,Grant County,Central Washington,977,443,516,361,81.5,87841,245600,54.2,45.6,0.0,79.5,81.0,0.0,98.8,100.0,80.7,100.0,97.4,81.7,88.8,Extreme,Wildfire,Check appetite,,0,0
+99124,,Okanogan County,Central Washington,326,142,155,97,68.3,70000,201600,39.5,37.3,1.4,79.6,73.9,0.0,98.9,100.0,94.7,100.0,95.6,71.6,86.9,Extreme,Wildfire,Check appetite,,0,0
+99125,,Whitman County,Tri-Cities & Southeast,611,245,318,164,66.9,52569,195800,41.5,37.6,1.2,75.1,68.2,0.0,94.2,0.0,92.1,99.0,98.7,63.4,82.7,High,Combined score,Construction and deductible review,,0,0
+99126,,Stevens County,Spokane & Northeast,899,394,394,357,90.6,,366000,58.2,38.8,0.0,87.3,25.4,0.0,97.9,100.0,92.2,91.3,99.1,85.3,64.8,Extreme,Wildfire,Check appetite,,0,0
+99128,,Whitman County,Tri-Cities & Southeast,259,125,158,95,76.0,58942,363500,57.1,44.8,6.4,64.8,63.4,0.0,78.1,0.0,86.1,100.0,97.5,54.9,74.2,Low,,No change,,0,0
+99129,,Stevens County,Spokane & Northeast,725,318,419,220,69.2,40938,220000,56.6,50.3,3.8,67.9,22.7,0.0,98.5,100.0,21.7,0.0,96.7,65.8,56.5,Extreme,Wildfire,Check appetite,,0,0
+99130,,Whitman County,Tri-Cities & Southeast,693,258,288,208,80.6,82000,232100,36.9,36.4,12.8,69.8,62.0,0.0,73.4,0.0,84.2,100.0,97.2,52.4,71.7,Low,,No change,,0,0
+99131,,Stevens County,Spokane & Northeast,127,96,115,64,66.7,35391,245800,70.1,93.8,0.0,46.9,24.6,0.0,98.0,100.0,43.1,0.0,98.3,58.6,59.5,Extreme,Wildfire,Check appetite,,0,0
+99133,,Douglas County,Central Washington,1115,536,731,403,75.2,68854,229900,49.4,39.2,6.5,56.5,78.8,0.0,98.7,100.0,89.7,100.0,86.4,74.8,87.6,Extreme,Wildfire,Check appetite,,0,0
+99134,,Lincoln County,Spokane & Northeast,595,286,317,228,79.7,41774,285200,52.6,45.8,0.0,81.5,79.2,0.0,98.8,100.0,95.2,100.0,96.0,61.2,89.3,Extreme,Wildfire,Check appetite,,0,0
+99135,,Grant County,Central Washington,395,167,195,155,92.8,80469,,35.5,43.1,4.2,71.9,81.0,0.0,98.8,100.0,80.7,100.0,97.4,81.7,88.8,Extreme,Wildfire,Check appetite,,0,0
+99136,,Whitman County,Tri-Cities & Southeast,14,11,20,11,100.0,87708,,82.2,100.0,0.0,100.0,52.6,0.0,94.7,0.0,66.2,0.0,99.1,49.4,73.3,Low,,No change,,0,0
+99137,,Stevens County,Spokane & Northeast,495,198,239,132,66.7,50972,337000,44.2,43.9,4.5,79.8,24.6,0.0,98.0,100.0,43.1,0.0,98.3,58.6,59.5,Extreme,Wildfire,Check appetite,,0,1
+99138,,Ferry County,Spokane & Northeast,1223,468,670,288,61.5,50833,218100,44.6,42.9,6.4,75.0,73.6,0.0,99.8,100.0,93.4,100.0,99.5,68.6,87.3,Extreme,Wildfire,Check appetite,,0,1
+99139,,Pend Oreille County,Spokane & Northeast,1091,464,669,400,86.2,52404,274100,56.9,52.4,2.2,55.8,24.9,0.0,92.8,0.0,99.0,100.0,99.3,89.8,63.5,Low,,No change,,0,1
+99140,,Ferry County,Spokane & Northeast,486,216,246,171,79.2,53529,140700,51.5,48.6,18.5,52.8,73.6,0.0,99.8,100.0,93.4,100.0,99.5,68.6,87.3,Extreme,Wildfire,Check appetite,,0,0
+99141,,Ferry County,Spokane & Northeast,5626,2626,3018,1991,75.8,58302,320700,52.3,44.1,1.8,78.2,27.5,0.0,98.2,100.0,85.3,37.2,99.2,75.1,65.2,Extreme,Wildfire,Check appetite,,0,2
+99143,,Whitman County,Tri-Cities & Southeast,585,276,317,234,84.8,38214,123600,59.0,57.2,1.1,77.9,54.1,0.0,94.6,0.0,68.6,9.2,99.0,50.7,74.2,Low,,No change,,1,0
+99144,,Lincoln County,Spokane & Northeast,7,0,3,0,,,,55.3,,,,79.2,0.0,98.8,100.0,95.2,100.0,96.0,61.2,89.3,Extreme,Wildfire,Check appetite,,0,0
+99146,,Ferry County,Spokane & Northeast,28,12,24,12,100.0,,,70.3,100.0,0.0,100.0,42.2,0.0,99.2,100.0,97.7,100.0,99.7,72.6,73.5,Extreme,Wildfire,Check appetite,,0,0
+99147,,Lincoln County,Spokane & Northeast,214,129,184,126,97.7,84063,436700,66.2,69.8,4.7,79.1,82.0,0.0,99.7,100.0,96.3,100.0,98.7,65.8,91.3,Extreme,Wildfire,Check appetite,,0,0
+99148,,Stevens County,Spokane & Northeast,2794,1201,2130,980,81.6,67431,429900,50.0,42.0,2.2,78.4,17.5,0.0,97.7,100.0,47.1,0.0,96.4,58.3,56.4,Extreme,Wildfire,Check appetite,,0,0
+99149,,Whitman County,Tri-Cities & Southeast,100,47,48,47,100.0,26250,49500,57.5,66.0,0.0,76.6,68.3,0.0,94.1,0.0,92.4,100.0,98.7,63.6,82.8,High,Combined score,Construction and deductible review,,0,0
+99150,,Ferry County,Spokane & Northeast,351,164,177,164,100.0,61833,332400,64.8,64.0,0.0,79.9,50.0,0.0,99.4,100.0,96.4,100.0,99.6,71.9,76.9,Extreme,Wildfire,Check appetite,,0,0
+99151,,Stevens County,Spokane & Northeast,242,101,106,88,87.1,55489,169400,53.0,56.4,2.0,84.2,25.1,0.0,97.9,100.0,93.8,100.0,99.2,85.9,64.9,Extreme,Wildfire,Check appetite,,0,0
+99152,,Pend Oreille County,Spokane & Northeast,157,88,105,67,76.1,66250,232500,43.1,37.5,4.5,70.5,24.9,0.0,92.8,0.0,99.0,100.0,99.3,89.8,63.5,Low,,No change,,0,0
+99153,,Pend Oreille County,Spokane & Northeast,467,242,351,150,62.0,44000,282400,56.8,47.1,13.2,35.5,24.9,0.0,92.8,0.0,99.0,100.0,99.3,89.8,63.5,Low,,No change,,1,0
+99154,,Lincoln County,Spokane & Northeast,14,5,5,5,100.0,,,32.5,60.0,0.0,40.0,79.2,0.0,98.8,100.0,95.2,100.0,96.0,61.2,89.3,Extreme,Wildfire,Check appetite,,0,0
+99155,,Okanogan County,Central Washington,1009,362,413,244,67.4,50909,143100,35.6,38.1,9.1,62.2,73.9,0.0,98.9,100.0,94.7,100.0,95.6,71.6,86.9,Extreme,Wildfire,Check appetite,,0,2
+99156,,Pend Oreille County,Spokane & Northeast,9195,3924,5026,3144,80.1,65271,378400,49.5,47.3,4.2,76.6,33.6,0.0,89.7,0.0,66.1,44.0,92.2,85.3,62.3,Low,,No change,,1,0
+99157,,Stevens County,Spokane & Northeast,605,285,403,195,68.4,43650,232600,53.1,56.5,3.2,72.6,22.8,0.0,97.9,100.0,84.7,40.8,99.1,79.3,62.9,Extreme,Wildfire,Check appetite,,0,1
+99158,,Whitman County,Tri-Cities & Southeast,561,211,235,186,88.2,78375,301800,48.8,39.3,0.0,77.3,62.7,0.0,76.0,0.0,85.2,100.0,97.4,53.8,73.1,Low,,No change,,0,0
+99159,,Lincoln County,Spokane & Northeast,1323,611,699,424,69.4,64688,241000,58.5,52.2,6.1,65.5,77.6,0.0,97.8,64.3,76.3,64.3,91.0,57.8,85.9,Extreme,Wildfire,Check appetite,,0,1
+99160,,Ferry County,Spokane & Northeast,87,57,69,31,54.4,,9999,59.3,42.1,0.0,54.4,42.2,0.0,99.2,100.0,97.7,100.0,99.7,72.6,73.5,Extreme,Wildfire,Check appetite,,0,0
+99161,,Whitman County,Tri-Cities & Southeast,1435,583,644,475,81.5,87464,302600,41.5,31.7,2.9,71.5,62.0,0.0,73.4,0.0,84.2,100.0,97.2,52.4,71.7,Low,,No change,,0,2
+99163,,Whitman County,Tri-Cities & Southeast,34022,13270,15858,4602,34.7,48231,435900,23.4,15.2,9.0,50.9,39.5,0.0,55.0,0.0,40.2,0.3,77.9,47.7,48.8,Low,,No change,,1,8
+99166,,Ferry County,Spokane & Northeast,2953,1247,1730,985,79.0,56676,286000,54.2,53.6,4.5,58.1,66.2,0.0,99.6,100.0,93.5,100.0,99.3,70.3,83.9,Extreme,Wildfire,Check appetite,,3,0
+99167,,Stevens County,Spokane & Northeast,871,356,463,325,91.3,70364,285000,54.8,65.4,0.8,82.3,22.8,0.0,97.9,100.0,61.6,0.0,98.7,67.0,60.6,Extreme,Wildfire,Check appetite,,0,0
+99169,,Adams County,Central Washington,2587,1074,1233,843,78.5,66061,228400,41.2,42.6,6.2,70.3,74.5,0.0,96.0,6.2,45.4,6.2,82.4,51.4,79.9,Moderate,,No change,,2,0
+99170,,Whitman County,Tri-Cities & Southeast,926,423,487,355,83.9,58750,238300,50.5,33.6,6.9,82.7,61.9,0.0,92.1,9.7,80.6,37.4,86.3,59.8,76.8,Moderate,,No change,,4,0
+99171,,Whitman County,Tri-Cities & Southeast,895,408,452,316,77.5,53333,220500,55.7,48.8,6.1,65.7,68.3,0.0,94.1,0.0,92.4,100.0,98.7,63.6,82.8,High,Combined score,Construction and deductible review,,0,0
+99173,,Stevens County,Spokane & Northeast,1623,582,633,499,85.7,60000,281600,37.5,54.6,0.7,83.7,36.5,0.0,98.4,100.0,56.1,0.0,96.5,74.2,66.1,Extreme,Wildfire,Check appetite,,0,0
+99174,,Whitman County,Tri-Cities & Southeast,69,25,37,22,88.0,50179,254500,40.1,12.0,12.0,84.0,62.0,0.0,73.4,0.0,84.2,100.0,97.2,52.4,71.7,Low,,No change,,0,0
+99176,,Whitman County,Tri-Cities & Southeast,163,72,90,58,80.6,128000,283300,58.0,55.6,0.0,91.7,64.0,0.0,80.0,0.0,86.8,100.0,97.7,55.9,75.2,Moderate,,No change,,0,2
+99179,,Whitman County,Tri-Cities & Southeast,645,222,250,151,68.0,79063,397700,33.6,20.3,0.9,89.2,52.6,0.0,94.7,0.0,66.2,0.0,99.1,49.4,73.3,Low,,No change,,0,0
+99180,,Pend Oreille County,Spokane & Northeast,465,234,348,217,92.7,63750,428700,62.3,59.8,0.0,73.5,29.7,0.0,91.9,0.0,81.6,52.0,97.8,90.2,63.5,Low,,No change,,1,1
+99181,,Stevens County,Spokane & Northeast,1995,952,1154,871,91.5,63661,267600,62.8,64.9,1.5,72.1,43.8,0.0,99.0,100.0,73.1,0.0,98.2,78.8,71.5,Extreme,Wildfire,Check appetite,,0,0
+99185,,Lincoln County,Spokane & Northeast,1501,595,804,445,74.8,73094,248100,48.9,46.2,2.9,65.7,82.0,0.0,99.7,100.0,96.3,100.0,98.7,65.8,91.3,Extreme,Wildfire,Check appetite,,0,0
+99201,,Spokane County,Spokane & Northeast,15829,8218,9164,2503,30.5,41171,312600,40.2,25.2,24.5,27.2,66.4,0.0,23.7,0.0,37.6,23.7,20.7,56.5,44.0,Low,,No change,,0,2
+99202,,Spokane County,Spokane & Northeast,19921,7764,8375,3751,48.3,65189,304600,32.8,25.5,15.5,48.2,35.2,0.0,20.2,0.0,25.4,12.5,17.0,50.4,27.2,Low,,No change,,7,5
+99203,,Spokane County,Spokane & Northeast,21468,9224,9676,7140,77.4,104372,483300,43.4,38.4,7.1,65.8,39.9,0.0,39.2,0.0,29.6,0.0,17.0,49.7,36.3,Low,,No change,Yes,5,6
+99204,,Spokane County,Spokane & Northeast,7643,4050,4377,1218,30.1,58277,397700,33.6,14.5,8.8,36.2,47.5,0.0,27.7,0.0,32.6,0.0,19.6,45.8,36.3,Low,,No change,,0,3
+99205,,Spokane County,Spokane & Northeast,43169,17674,18620,12810,72.5,77374,327400,37.0,27.1,5.5,61.9,39.1,0.0,33.9,0.0,15.8,0.0,14.9,50.0,32.5,Low,,No change,,14,9
+99206,,Spokane County,Spokane & Northeast,41089,16533,17190,10175,61.5,81764,404100,40.1,32.5,5.0,64.8,41.4,0.0,38.1,0.0,27.2,0.0,27.1,54.5,37.4,Low,,No change,,11,10
+99207,,Spokane County,Spokane & Northeast,32770,13193,13809,7595,57.6,60452,274100,32.9,27.0,8.5,59.6,39.7,0.0,11.6,0.0,15.7,0.0,9.4,52.5,24.4,Low,,No change,,11,17
+99208,,Spokane County,Spokane & Northeast,58669,23479,24331,15677,66.8,88599,450800,40.5,33.2,5.3,63.7,35.8,0.0,55.3,0.0,19.4,0.0,29.8,49.7,40.4,Low,,No change,,23,13
+99212,,Spokane County,Spokane & Northeast,21707,8876,9548,6129,69.1,67049,361500,39.5,35.4,8.6,62.9,40.0,0.0,47.7,0.0,34.0,0.0,26.9,52.7,40.8,Low,,No change,,15,3
+99216,,Spokane County,Spokane & Northeast,28578,11899,13000,5587,47.0,74278,373200,37.9,32.4,8.8,59.6,48.2,0.0,32.8,0.0,30.0,0.0,19.8,55.8,38.1,Low,,No change,,11,8
+99217,,Spokane County,Spokane & Northeast,21441,8399,8573,5418,64.5,73620,377400,38.3,27.5,3.1,66.6,38.8,0.0,50.9,0.0,22.6,0.8,36.5,51.9,41.2,Low,,No change,,10,5
+99218,,Spokane County,Spokane & Northeast,16897,6330,6622,3699,58.4,80733,445300,38.0,35.3,11.1,57.6,53.0,0.0,45.8,0.0,23.0,0.0,26.2,53.8,44.8,Low,,No change,,3,5
+99223,,Spokane County,Spokane & Northeast,36094,14767,15287,9871,66.8,94279,490500,40.9,36.2,7.5,60.9,40.4,0.0,59.0,3.1,26.9,0.0,31.8,53.2,44.7,Low,,No change,,5,3
+99224,,Spokane County,Spokane & Northeast,24919,10502,11071,6733,64.1,80770,461000,40.6,30.3,5.6,62.7,42.2,0.0,94.7,73.9,42.9,3.7,52.8,53.9,61.7,Extreme,Wildfire,Check appetite,,10,5
+99251,,Spokane County,Spokane & Northeast,964,0,0,0,,,,19.5,,,,48.6,0.0,73.2,0.0,2.9,0.0,38.0,40.4,51.6,Low,,No change,,0,0
+99258,,Spokane County,Spokane & Northeast,471,5,5,0,0.0,,,19.8,0.0,0.0,100.0,45.0,0.0,0.0,0.0,9.7,0.0,12.1,48.0,22.4,Low,,No change,,0,0
+99301,,Franklin County,Tri-Cities & Southeast,87044,27093,28270,19345,71.4,87951,385500,30.6,23.6,4.2,74.5,64.7,0.0,61.7,1.6,76.3,63.1,21.3,53.4,60.5,Low,,No change,,26,14
+99320,,Benton County,Tri-Cities & Southeast,9879,3495,3794,2982,85.3,90102,373500,36.4,30.1,5.8,78.6,71.2,0.0,97.4,100.0,63.2,50.2,85.5,79.3,81.0,Extreme,Wildfire,Check appetite,,7,2
+99321,,Grant County,Central Washington,1047,173,227,73,42.2,75795,,22.5,6.4,0.0,100.0,72.4,0.0,94.2,0.0,48.3,0.0,78.3,57.7,78.2,Moderate,,No change,,0,0
+99322,,Klickitat County,Southwest Washington,412,223,232,198,88.8,,,49.6,59.2,0.0,91.5,74.7,0.0,99.6,100.0,63.3,0.0,94.5,69.5,84.3,Extreme,Wildfire,Check appetite,,0,0
+99323,,Walla Walla County,Tri-Cities & Southeast,4082,1392,1476,1224,87.9,93092,412900,33.8,28.4,1.1,81.2,84.6,0.0,98.1,100.0,96.5,100.0,94.4,92.5,91.5,Extreme,Wildfire,Check appetite,,0,0
+99324,,Walla Walla County,Tri-Cities & Southeast,10137,3552,3819,2292,64.5,62839,368500,33.4,41.1,5.6,58.1,82.6,0.0,61.3,0.0,41.2,0.0,16.0,85.0,64.3,Low,,No change,,3,2
+99326,,Franklin County,Tri-Cities & Southeast,6336,1438,1513,931,64.7,82500,320800,38.5,30.0,6.0,74.6,81.3,0.0,96.8,91.4,87.8,98.7,77.2,62.6,87.0,Extreme,Wildfire,Check appetite,,0,0
+99328,,Columbia County,Tri-Cities & Southeast,3646,1667,1977,1291,77.4,72756,272100,49.3,44.3,6.4,65.6,74.9,0.0,96.9,100.0,99.1,100.0,96.6,73.4,87.2,Extreme,Wildfire,Check appetite,,0,1
+99329,,Walla Walla County,Tri-Cities & Southeast,127,52,58,45,86.5,,311400,48.6,50.0,17.3,65.4,80.1,0.0,95.6,0.0,91.5,100.0,95.7,86.8,88.2,High,Combined score,Construction and deductible review,,0,0
+99330,,Franklin County,Tri-Cities & Southeast,1210,252,252,235,93.3,140093,554200,26.0,16.7,0.0,98.0,81.4,0.0,95.5,12.3,97.0,100.0,84.9,69.6,88.2,High,Combined score,Construction and deductible review,,0,0
+99333,,Whitman County,Tri-Cities & Southeast,151,45,45,30,66.7,98315,450000,28.9,24.4,0.0,100.0,53.9,0.0,94.8,0.0,65.6,0.0,98.2,49.7,73.8,Low,,No change,,0,0
+99335,,Franklin County,Tri-Cities & Southeast,229,88,101,64,72.7,91667,250000,42.9,27.3,10.2,84.1,74.8,0.0,97.4,100.0,83.5,100.0,94.4,57.4,85.5,Extreme,Wildfire,Check appetite,,0,0
+99336,,Benton County,Tri-Cities & Southeast,50735,19385,21002,9368,48.3,62527,324400,34.4,28.8,13.0,55.3,82.8,9.3,54.9,2.1,71.8,31.9,32.7,88.8,66.9,Low,,No change,,9,7
+99337,,Benton County,Tri-Cities & Southeast,33287,11390,11827,9734,85.5,98848,395500,39.4,34.5,1.7,79.0,71.1,0.0,78.9,38.9,79.0,57.4,60.4,86.0,73.5,High,Wildfire,Construction and deductible review,,13,1
+99338,,Benton County,Tri-Cities & Southeast,20633,6937,7192,5680,81.9,111042,551500,37.6,30.8,2.0,80.5,75.0,0.0,90.8,85.4,67.4,51.6,74.8,89.2,79.8,Extreme,Wildfire,Check appetite,,9,7
+99341,,Adams County,Central Washington,765,269,329,242,90.0,68558,238200,35.0,46.1,3.0,80.7,71.4,0.0,96.2,0.0,57.3,0.0,85.8,53.6,80.1,Moderate,,No change,,1,0
+99343,,Franklin County,Tri-Cities & Southeast,3215,807,807,527,65.3,59451,253000,24.0,33.1,0.0,72.9,78.1,0.0,95.5,17.9,86.4,100.0,79.7,63.5,85.2,High,Combined score,Construction and deductible review,,0,0
+99344,,Adams County,Central Washington,19534,5422,5896,3571,65.9,64888,281900,26.8,25.2,6.4,75.6,68.0,0.0,85.7,14.4,49.1,6.1,37.3,39.3,69.2,Moderate,,No change,,0,1
+99345,,Benton County,Tri-Cities & Southeast,162,72,77,49,68.1,102500,415500,43.0,27.8,0.0,70.8,85.6,0.0,98.2,100.0,85.7,100.0,97.0,80.9,91.2,Extreme,Wildfire,Check appetite,,0,0
+99346,,Benton County,Tri-Cities & Southeast,198,75,75,71,94.7,50865,209200,55.8,53.3,6.7,74.7,85.6,0.0,98.2,100.0,85.7,100.0,97.0,80.9,91.2,Extreme,Wildfire,Check appetite,,0,0
+99347,,Garfield County,Tri-Cities & Southeast,2512,1111,1332,848,76.3,64699,243400,47.4,41.2,1.0,71.0,54.7,0.0,96.5,98.5,92.3,98.5,95.9,47.0,77.2,Extreme,Wildfire,Check appetite,,2,0
+99348,,Walla Walla County,Tri-Cities & Southeast,1633,566,686,215,38.0,79167,237200,35.1,18.2,4.2,65.5,83.7,0.0,97.7,85.2,95.8,100.0,94.7,91.3,90.9,Extreme,Wildfire,Check appetite,,0,0
+99349,,Grant County,Central Washington,8143,2388,2815,1296,54.3,61333,427800,29.4,25.7,6.7,72.7,80.9,0.0,95.0,0.0,79.0,37.3,81.9,67.1,85.7,High,Combined score,Construction and deductible review,,0,0
+99350,,Benton County,Tri-Cities & Southeast,14837,4676,5059,2977,63.7,81014,338500,32.9,31.8,5.5,70.0,82.7,0.0,96.3,82.9,75.9,47.8,83.2,83.0,86.8,Extreme,Wildfire,Check appetite,,11,1
+99352,,Benton County,Tri-Cities & Southeast,37430,14795,15847,10027,67.8,100108,474100,38.1,30.8,3.7,65.4,75.3,12.5,76.2,22.5,45.3,1.8,54.5,80.0,70.5,High,Wildfire,Construction and deductible review,Yes,18,3
+99353,,Benton County,Tri-Cities & Southeast,19251,6411,6804,5376,83.9,121845,450500,36.1,25.8,3.2,81.1,67.3,0.0,93.3,39.1,46.8,23.4,54.7,78.9,73.1,High,Wildfire,Construction and deductible review,Yes,1,2
+99354,,Benton County,Tri-Cities & Southeast,25559,10518,11041,6320,60.1,91933,392600,34.5,27.6,4.9,62.6,75.9,0.0,63.0,0.0,72.0,53.0,37.2,81.0,67.1,Low,,No change,,9,4
+99356,,Klickitat County,Southwest Washington,378,78,131,36,46.2,55750,,32.8,41.0,2.6,78.2,74.7,0.0,99.6,100.0,63.3,0.0,94.5,69.5,84.3,Extreme,Wildfire,Check appetite,,0,0
+99357,,Grant County,Central Washington,3843,996,1125,581,58.3,57034,326700,31.4,16.2,0.4,81.0,75.2,0.0,96.6,59.8,26.8,12.9,77.9,58.6,78.1,Extreme,Wildfire,Check appetite,,2,1
+99359,,Columbia County,Tri-Cities & Southeast,94,68,82,59,86.8,61000,135400,59.9,30.9,0.0,72.1,74.9,0.0,96.9,100.0,99.1,100.0,96.6,73.4,87.2,Extreme,Wildfire,Check appetite,,0,0
+99360,,Walla Walla County,Tri-Cities & Southeast,1350,469,494,351,74.8,93036,454500,37.8,32.6,0.9,87.0,80.9,0.0,96.0,18.8,92.4,100.0,95.5,87.9,88.8,High,Combined score,Construction and deductible review,,1,0
+99361,,Walla Walla County,Tri-Cities & Southeast,1992,847,968,561,66.2,91367,295900,40.9,28.8,5.7,77.7,79.2,0.0,95.9,21.4,93.0,100.0,95.9,84.3,88.1,High,Wildfire,Construction and deductible review,,1,2
+99362,,Walla Walla County,Tri-Cities & Southeast,42853,16610,17952,10584,63.7,72474,429600,40.0,36.6,6.9,59.6,83.3,22.3,65.8,0.0,51.5,18.7,23.4,84.3,68.0,Low,,No change,,9,2
+99363,,Walla Walla County,Tri-Cities & Southeast,145,28,52,28,100.0,,253300,6.2,46.4,0.0,100.0,84.6,0.0,98.1,100.0,96.5,100.0,94.4,92.5,91.5,Extreme,Wildfire,Check appetite,,0,0
+99371,,Adams County,Central Washington,394,150,268,115,76.7,77500,217500,46.3,38.0,0.7,72.0,72.4,0.0,96.5,29.3,65.0,29.3,88.3,54.7,81.7,High,Wildfire,Construction and deductible review,,0,0
+99401,,Asotin County,Tri-Cities & Southeast,163,77,91,77,100.0,41438,322500,67.9,100.0,0.0,89.6,30.1,0.0,98.4,100.0,81.2,100.0,96.5,52.3,65.8,Extreme,Wildfire,Check appetite,,0,0
+99402,,Asotin County,Tri-Cities & Southeast,1557,676,817,563,83.3,78906,339800,51.2,43.3,5.3,75.0,30.2,0.0,98.3,100.0,77.8,84.5,95.8,53.3,65.4,Extreme,Wildfire,Check appetite,,3,0
+99403,,Asotin County,Tri-Cities & Southeast,20760,8743,9281,6316,72.2,71482,325300,45.7,43.0,3.0,68.8,36.4,0.0,65.9,25.3,50.1,0.9,40.8,51.8,48.5,High,Wildfire,Construction and deductible review,,2,2

@@ -1,22 +1,14 @@
 # John Ramsay Insurance Agency LLC Reporting Site
 
-Static, self-contained performance dashboard for John Ramsay Insurance Agency LLC, deployed on Vercel.
+Static client reporting site for John Ramsay Insurance Agency LLC (GOAL account #433), deployed on Vercel.
 
 ## Structure
 
-- `index.html` — the dashboard (all styles, scripts, and images are inlined)
-- `vercel.json` — Vercel config: clean URLs, security headers, `noindex` so the report stays out of search engines
+- `index.html`: hub with Campaign Reports and Website & Research sections
+- `John-Ramsay-Campaign-Overview-YTD-10-14-26.html`, `...Auto...`, `...Home...`: campaign reports, year to date
+- `John-Ramsay-Inbound-Call-Review-10-14-26.html`: inbound call review, Jul 16 to Oct 14, 2026
+- `John-Ramsay-SEO-Audit-10-14-26.html`: Allstate agent page audit
+- `John-Ramsay-WA-*`: Washington demographic and wildfire/earthquake research, plus the ZIP CSV
+- `vercel.json`: clean URLs, security headers, `noindex`
 
-## Deploying
-
-No build step. In Vercel, import this repo with:
-
-- **Framework Preset:** Other
-- **Build Command:** *(leave empty)*
-- **Output Directory:** *(leave empty — serves the repo root)*
-
-Or from the CLI: `vercel --prod`
-
-## Updating the report
-
-Replace `index.html` with the new export and push to `main`; Vercel redeploys automatically.
+No build step. Push to `main` and Vercel redeploys.
